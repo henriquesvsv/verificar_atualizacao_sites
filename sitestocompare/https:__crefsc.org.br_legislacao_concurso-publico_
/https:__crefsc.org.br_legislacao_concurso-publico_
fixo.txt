@@ -1,0 +1,1074 @@
+<!DOCTYPE html>
+<html class="no-js" lang="pt-BR" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+
+<!-- head -->
+<head>
+
+<!-- meta -->
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+
+<meta name="description" content="Fortalecimento e valorização do profissional" />
+<meta name="keywords" content="educação física" />
+ <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44803816-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<style>#ws_icon_chat {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    z-index: 10000;
+
+}
+#ws_icon_chat img {
+width: 50px;
+height: 50px;
+}
+
+</style>
+<a href="https://api.whatsapp.com/send?phone=554833487007" target="_blank" id="ws_icon_chat" title="Atendimento via WhatsApp" data-url="https://api.whatsapp.com/send?phone=554833487007" data-homelink="https://web.whatsapp.com"><img src="https://e-com.club/mass/ftp/tutoriais/whatsapp-1.png"></a>
+
+<link rel="shortcut icon" href="https://www.crefsc.org.br/wp-content/uploads/2016/03/Untitled-design-17.png" />	
+	
+
+<!-- wp_head() -->
+<!-- script | dynamic -->
+<script id="mfn-dnmc-config-js">
+//<![CDATA[
+window.mfn_ajax = "https://crefsc.org.br/wp-admin/admin-ajax.php";
+window.mfn_mobile_init = 1240;
+window.mfn_nicescroll = 40;
+window.mfn_parallax = "enllax";
+window.mfn_prettyphoto = {style:"pp_default", width:0, height:0};
+window.mfn_sliders = {blog:0, clients:0, offer:0, portfolio:0, shop:0, slider:0, testimonials:0};
+window.mfn_retina_disable = 0;
+//]]>
+</script>
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Concurso Público - CREF3/SC - Conselho Regional de Educação Física de SC</title>
+	<link rel="canonical" href="https://crefsc.org.br/legislacao/concurso-publico/" />
+	<meta property="og:locale" content="pt_BR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Concurso Público - CREF3/SC - Conselho Regional de Educação Física de SC" />
+	<meta property="og:url" content="https://crefsc.org.br/legislacao/concurso-publico/" />
+	<meta property="og:site_name" content="CREF3/SC - Conselho Regional de Educação Física de SC" />
+	<meta property="article:modified_time" content="2024-01-31T15:40:23+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Est. tempo de leitura" />
+	<meta name="twitter:data1" content="5 minutos" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://crefsc.org.br/legislacao/concurso-publico/","url":"https://crefsc.org.br/legislacao/concurso-publico/","name":"Concurso Público - CREF3/SC - Conselho Regional de Educação Física de SC","isPartOf":{"@id":"https://crefsc.org.br/#website"},"datePublished":"2016-06-07T17:14:44+00:00","dateModified":"2024-01-31T15:40:23+00:00","breadcrumb":{"@id":"https://crefsc.org.br/legislacao/concurso-publico/#breadcrumb"},"inLanguage":"pt-BR","potentialAction":[{"@type":"ReadAction","target":["https://crefsc.org.br/legislacao/concurso-publico/"]}]},{"@type":"BreadcrumbList","@id":"https://crefsc.org.br/legislacao/concurso-publico/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://crefsc.org.br/"},{"@type":"ListItem","position":2,"name":"Legislação","item":"https://crefsc.org.br/legislacao/"},{"@type":"ListItem","position":3,"name":"Concurso Público"}]},{"@type":"WebSite","@id":"https://crefsc.org.br/#website","url":"https://crefsc.org.br/","name":"CREF3/SC - Conselho Regional de Educação Física de SC","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://crefsc.org.br/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"pt-BR"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="Feed para CREF3/SC - Conselho Regional de Educação Física de SC &raquo;" href="https://crefsc.org.br/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para CREF3/SC - Conselho Regional de Educação Física de SC &raquo;" href="https://crefsc.org.br/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/crefsc.org.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=dc81fbc92e3aae66a870676bbe9441f5"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://crefsc.org.br/wp-includes/css/dist/block-library/style.min.css?ver=dc81fbc92e3aae66a870676bbe9441f5' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://crefsc.org.br/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-css' href='https://crefsc.org.br/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-public.css?ver=3.1.8' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-gdpr-css' href='https://crefsc.org.br/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-gdpr.css?ver=3.1.8' type='text/css' media='all' />
+<link rel='stylesheet' id='yop-public-css' href='https://crefsc.org.br/wp-content/plugins/yop-poll/public/assets/css/yop-poll-public-6.5.29.css?ver=dc81fbc92e3aae66a870676bbe9441f5' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-base-css' href='https://crefsc.org.br/wp-content/themes/betheme/css/base.css?ver=29' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-btn-css' href='https://crefsc.org.br/wp-content/themes/betheme/css/buttons.css?ver=29' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-icons-css' href='https://crefsc.org.br/wp-content/themes/betheme/fonts/mfn-icons.css?ver=29' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-grid-css' href='https://crefsc.org.br/wp-content/themes/betheme/css/grid.css?ver=29' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-layout-css' href='https://crefsc.org.br/wp-content/themes/betheme/css/layout.css?ver=29' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-shortcodes-css' href='https://crefsc.org.br/wp-content/themes/betheme/css/shortcodes.css?ver=29' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-variables-css' href='https://crefsc.org.br/wp-content/themes/betheme/css/variables.css?ver=29' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-style-simple-css' href='https://crefsc.org.br/wp-content/themes/betheme/css/style-simple.css?ver=29' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-animations-css' href='https://crefsc.org.br/wp-content/themes/betheme/assets/animations/animations.min.css?ver=29' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-jquery-ui-css' href='https://crefsc.org.br/wp-content/themes/betheme/assets/ui/jquery.ui.all.css?ver=29' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-prettyPhoto-css' href='https://crefsc.org.br/wp-content/themes/betheme/assets/prettyPhoto/prettyPhoto.css?ver=29' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-jplayer-css' href='https://crefsc.org.br/wp-content/themes/betheme/assets/jplayer/css/jplayer.blue.monday.css?ver=29' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-responsive-css' href='https://crefsc.org.br/wp-content/themes/betheme/css/responsive.css?ver=29' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-custom-css' href='https://crefsc.org.br/wp-content/themes/betheme/css/custom.css?ver=29' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css' href='https://crefsc.org.br/wp-content/plugins/tablepress/css/build/default.css?ver=2.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css' href='https://crefsc.org.br/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css' href='https://crefsc.org.br/wp-content/themes/betheme-child/style.css?ver=29' type='text/css' media='all' />
+<link rel='stylesheet' id='style-incuca-css' href='https://crefsc.org.br/wp-content/themes/betheme-child/style-incuca.css?ver=dc81fbc92e3aae66a870676bbe9441f5' type='text/css' media='all' />
+<script type="text/javascript" src="https://crefsc.org.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://crefsc.org.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="cookie-law-info-js-extra">
+/* <![CDATA[ */
+var Cli_Data = {"nn_cookie_ids":[],"cookielist":[],"non_necessary_cookies":[],"ccpaEnabled":"","ccpaRegionBased":"","ccpaBarEnabled":"","strictlyEnabled":["necessary","obligatoire"],"ccpaType":"gdpr","js_blocking":"1","custom_integration":"","triggerDomRefresh":"","secure_cookies":""};
+var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"500","background":"#ffffff","border":"#b1a6a6c2","border_on":"","button_1_button_colour":"#61a229","button_1_button_hover":"#4e8221","button_1_link_colour":"#fff","button_1_as_button":"1","button_1_new_win":"","button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":"","button_2_hidebar":"","button_3_button_colour":"#dedfe0","button_3_button_hover":"#b2b2b3","button_3_link_colour":"#333333","button_3_as_button":"1","button_3_new_win":"","button_4_button_colour":"#dedfe0","button_4_button_hover":"#b2b2b3","button_4_link_colour":"#333333","button_4_as_button":"1","button_7_button_colour":"#32932d","button_7_button_hover":"#287624","button_7_link_colour":"#fff","button_7_as_button":"1","button_7_new_win":"","font_family":"inherit","header_fix":"","notify_animate_hide":"1","notify_animate_show":"","notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"top","scroll_close":"","scroll_close_reload":"","accept_close_reload":"","reject_close_reload":"","showagain_tab":"","showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#333333","show_once_yn":"","show_once":"10000","logging_on":"","as_popup":"","popup_overlay":"1","bar_heading_text":"","cookie_bar_as":"widget","popup_showagain_position":"bottom-right","widget_position":"right"};
+var log_object = {"ajax_url":"https:\/\/crefsc.org.br\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://crefsc.org.br/wp-content/plugins/cookie-law-info/legacy/public/js/cookie-law-info-public.js?ver=3.1.8" id="cookie-law-info-js"></script>
+<script type="text/javascript" src="https://crefsc.org.br/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.6.18" async id="tp-tools-js"></script>
+<script type="text/javascript" src="https://crefsc.org.br/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.6.18" async id="revmin-js"></script>
+<script type="text/javascript" id="yop-public-js-extra">
+/* <![CDATA[ */
+var objectL10n = {"yopPollParams":{"urlParams":{"ajax":"https:\/\/crefsc.org.br\/wp-admin\/admin-ajax.php","wpLogin":"https:\/\/crefsc.org.br\/wp-login.php?redirect_to=https%3A%2F%2Fcrefsc.org.br%2Fwp-admin%2Fadmin-ajax.php%3Faction%3Dyop_poll_record_wordpress_vote"},"apiParams":{"reCaptcha":{"siteKey":""},"reCaptchaV2Invisible":{"siteKey":""},"reCaptchaV3":{"siteKey":""},"hCaptcha":{"siteKey":""}},"captchaParams":{"imgPath":"https:\/\/crefsc.org.br\/wp-content\/plugins\/yop-poll\/public\/assets\/img\/","url":"https:\/\/crefsc.org.br\/wp-content\/plugins\/yop-poll\/app.php","accessibilityAlt":"Sound icon","accessibilityTitle":"Accessibility option: listen to a question and answer it!","accessibilityDescription":"Type below the <strong>answer<\/strong> to what you hear. Numbers or words:","explanation":"Click or touch the <strong>ANSWER<\/strong>","refreshAlt":"Refresh\/reload icon","refreshTitle":"Refresh\/reload: get new images and accessibility option!"},"voteParams":{"invalidPoll":"Invalid Poll","noAnswersSelected":"No answer selected","minAnswersRequired":"At least {min_answers_allowed} answer(s) required","maxAnswersRequired":"A max of {max_answers_allowed} answer(s) accepted","noAnswerForOther":"No other answer entered","noValueForCustomField":"{custom_field_name} is required","consentNotChecked":"You must agree to our terms and conditions","noCaptchaSelected":"Captcha is required","thankYou":"Thank you for your vote"},"resultsParams":{"singleVote":"vote","multipleVotes":"votes","singleAnswer":"answer","multipleAnswers":"answers"}}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://crefsc.org.br/wp-content/plugins/yop-poll/public/assets/js/yop-poll-public-6.5.29.min.js?ver=dc81fbc92e3aae66a870676bbe9441f5" id="yop-public-js"></script>
+<script></script><link rel="https://api.w.org/" href="https://crefsc.org.br/wp-json/" /><link rel="alternate" type="application/json" href="https://crefsc.org.br/wp-json/wp/v2/pages/4567" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://crefsc.org.br/xmlrpc.php?rsd" />
+
+<link rel='shortlink' href='https://crefsc.org.br/?p=4567' />
+<link rel="alternate" type="application/json+oembed" href="https://crefsc.org.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcrefsc.org.br%2Flegislacao%2Fconcurso-publico%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://crefsc.org.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcrefsc.org.br%2Flegislacao%2Fconcurso-publico%2F&#038;format=xml" />
+<!-- style | dynamic -->
+<style id="mfn-dnmc-style-css">
+@media only screen and (min-width: 1240px) {body:not(.header-simple) #Top_bar #menu { display:block !important; }.tr-menu #Top_bar #menu { background:none !important;}#Top_bar .menu > li > ul.mfn-megamenu { width:984px; }#Top_bar .menu > li > ul.mfn-megamenu > li { float:left;}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-1 { width:100%;}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-2 { width:50%;}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-3 { width:33.33%;}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-4 { width:25%;}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-5 { width:20%;}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-6 { width:16.66%;}#Top_bar .menu > li > ul.mfn-megamenu > li > ul { display:block !important; position:inherit; left:auto; top:auto; border-width: 0 1px 0 0; }#Top_bar .menu > li > ul.mfn-megamenu > li:last-child > ul{ border: 0; }#Top_bar .menu > li > ul.mfn-megamenu > li > ul li { width: auto; }#Top_bar .menu > li > ul.mfn-megamenu a.mfn-megamenu-title { text-transform: uppercase; font-weight:400;}#Top_bar .menu > li > ul.mfn-megamenu a.mfn-megamenu-title:hover { background:none;}#Top_bar .menu > li > ul.mfn-megamenu a .menu-arrow { display: none; }.menuo-right #Top_bar .menu > li > ul.mfn-megamenu { left:auto; right:0;}.menuo-right #Top_bar .menu > li > ul.mfn-megamenu-bg { box-sizing:border-box;}#Top_bar .menu > li > ul.mfn-megamenu-bg { padding:20px 166px 20px 20px; background-repeat:no-repeat; background-position: bottom right; }#Top_bar .menu > li > ul.mfn-megamenu-bg > li { background:none;}#Top_bar .menu > li > ul.mfn-megamenu-bg > li a { border:none;}#Top_bar .menu > li > ul.mfn-megamenu-bg > li > ul { background:none !important;-webkit-box-shadow: 0 0 0 0;-moz-box-shadow: 0 0 0 0;box-shadow: 0 0 0 0;}#Top_bar.is-sticky { position:fixed !important; width:100%; left:0; top:-60px; height:60px; z-index:701; background:#fff; opacity:.97; filter: alpha(opacity = 97);-webkit-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.1); -moz-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.1);box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.1);}.layout-boxed.header-boxed #Top_bar.is-sticky { max-width:1240px; left:50%; -webkit-transform: translateX(-50%); transform: translateX(-50%);}.layout-boxed.header-boxed.nice-scroll #Top_bar.is-sticky { margin-left:-5px;}#Top_bar.is-sticky .top_bar_left,#Top_bar.is-sticky .top_bar_right,#Top_bar.is-sticky .top_bar_right:before { background:none;}#Top_bar.is-sticky .top_bar_right { top:-4px;}#Top_bar.is-sticky .logo { width:auto; margin: 0 30px 0 20px; padding:0;}#Top_bar.is-sticky #logo { padding:5px 0; height:50px; line-height:50px;}#Top_bar.is-sticky #logo img { max-height:35px; width: auto !important;}#Top_bar.is-sticky #logo img.logo-main { display:none;}#Top_bar.is-sticky #logo img.logo-sticky { display:inline;}#Top_bar.is-sticky .menu_wrapper { clear:none;}#Top_bar.is-sticky .menu_wrapper .menu > li > a{ padding:15px 0;}#Top_bar.is-sticky .menu > li > a,#Top_bar.is-sticky .menu > li > a span { line-height:30px;}#Top_bar.is-sticky .menu > li > a:after { top:auto; bottom:-4px;}#Top_bar.is-sticky .menu > li > a span.description { display:none;}#Top_bar.is-sticky #header_cart { top:27px;}#Top_bar.is-sticky #search_button { top:25px;}#Top_bar.is-sticky a.button.action_button { top:13px;}#Top_bar.is-sticky .wpml-languages { top:15px;}#Top_bar.is-sticky .secondary_menu_wrapper,#Top_bar.is-sticky .banner_wrapper { display:none;}.header-simple #Top_bar.is-sticky .responsive-menu-toggle { top:12px;}.header-stack.header-center #Top_bar #menu { display: inline-block !important;}.header-overlay #Top_bar.is-sticky { display:none;}.sticky-dark #Top_bar.is-sticky { background: rgba(0,0,0,.8); }.sticky-dark #Top_bar.is-sticky #menu { background: none; }.sticky-dark #Top_bar.is-sticky .menu > li > a { color: #fff; }.sticky-dark #Top_bar.is-sticky .top_bar_right a { color: rgba(255,255,255,.5); }.sticky-dark #Top_bar.is-sticky .wpml-languages a.active,.sticky-dark #Top_bar.is-sticky .wpml-languages ul.wpml-lang-dropdown { background: rgba(0,0,0,0.3); border-color: rgba(0, 0, 0, 0.1); }.header-plain:not(.menuo-right) #Header .top_bar_left { width:auto !important;}.header-simple {}.header-simple #Top_bar #menu { display:none; height: auto; width: 300px; bottom: auto; top: 60px; right: 1px; position: absolute; margin: 0px;}.header-simple #Header a.responsive-menu-toggle { display:block; width: 35px; height: 35px; line-height: 35px; font-size: 25px; text-align: center; position:absolute; top: 28px; right: 10px; -webkit-border-radius: 3px; border-radius: 3px; }.header-simple #Header a:hover.responsive-menu-toggle { text-decoration: none; }.header-simple #Top_bar #menu > ul { width:100%; float: left; }.header-simple #Top_bar #menu ul li { width: 100%; padding-bottom: 0; border-right: 0; position: relative; }.header-simple #Top_bar #menu ul li a { padding:0 20px; margin:0; display: block; height: auto; line-height: normal; border:none; }.header-simple #Top_bar #menu ul li a:after { display:none;}.header-simple #Top_bar #menu ul li a span { border:none; line-height:48px; display:inline; padding:0;}.header-simple #Top_bar #menu ul li.submenu .menu-toggle { display:block; position:absolute; right:0; top:0; width:48px; height:48px; line-height:48px; font-size:30px; text-align:center; color:#d6d6d6; border-left:1px solid #eee; cursor:pointer;}.header-simple #Top_bar #menu ul li.submenu .menu-toggle:after { content:"+"}.header-simple #Top_bar #menu ul li.hover > .menu-toggle:after { content:"-"}.header-simple #Top_bar #menu ul li.hover a { border-bottom: 0; }.header-simple #Top_bar #menu ul.mfn-megamenu li .menu-toggle { display:none;}.header-simple #Top_bar #menu ul li ul { position:relative !important; left:0 !important; top:0; padding: 0; margin-left: 0 !important; width:auto !important; background-image:none;}.header-simple #Top_bar #menu ul li ul li { width:100% !important;}.header-simple #Top_bar #menu ul li ul li a { padding: 0 20px 0 30px;}.header-simple #Top_bar #menu ul li ul li a .menu-arrow { display: none;}.header-simple #Top_bar #menu ul li ul li a span { padding:0;}.header-simple #Top_bar #menu ul li ul li a span:after { display:none !important;}.header-simple #Top_bar .menu > li > ul.mfn-megamenu a.mfn-megamenu-title { text-transform: uppercase; font-weight:400;}.header-simple #Top_bar .menu > li > ul.mfn-megamenu > li > ul { display:block !important; position:inherit; left:auto; top:auto;}.header-simple #Top_bar #menu ul li ul li ul { border-left: 0 !important; padding: 0; top: 0; }.header-simple #Top_bar #menu ul li ul li ul li a { padding: 0 20px 0 40px;}.rtl.header-simple#Top_bar #menu { left: 1px; right: auto;}.rtl.header-simple #Top_bar a.responsive-menu-toggle { left:10px; right:auto; }.rtl.header-simple #Top_bar #menu ul li.submenu .menu-toggle { left:0; right:auto; border-left:none; border-right:1px solid #eee;}.rtl.header-simple #Top_bar #menu ul li ul { left:auto !important; right:0 !important;}.rtl.header-simple #Top_bar #menu ul li ul li a { padding: 0 30px 0 20px;}.rtl.header-simple #Top_bar #menu ul li ul li ul li a { padding: 0 40px 0 20px;}.menu-highlight #Top_bar .menu > li { margin: 0 2px; }.menu-highlight:not(.header-creative) #Top_bar .menu > li > a { margin: 20px 0; padding: 0; -webkit-border-radius: 5px; border-radius: 5px; }.menu-highlight #Top_bar .menu > li > a:after { display: none; }.menu-highlight #Top_bar .menu > li > a span:not(.description) { line-height: 50px; }.menu-highlight #Top_bar .menu > li > a span.description { display: none; }.menu-highlight.header-stack #Top_bar .menu > li > a { margin: 10px 0; }.menu-highlight.header-stack #Top_bar .menu > li > a span:not(.description) { line-height: 40px; }.menu-highlight.header-fixed #Top_bar .menu > li > a { margin: 10px 0; padding: 5px 0; }.menu-highlight.header-fixed #Top_bar .menu > li > a span { line-height:30px;}.menu-highlight.header-transparent #Top_bar .menu > li > a { margin: 5px 0; }.menu-highlight.header-simple #Top_bar #menu ul li,.menu-highlight.header-creative #Top_bar #menu ul li { margin: 0; }.menu-highlight.header-simple #Top_bar #menu ul li > a,.menu-highlight.header-creative #Top_bar #menu ul li > a { -webkit-border-radius: 0; border-radius: 0; }.menu-highlight:not(.header-simple) #Top_bar.is-sticky .menu > li > a { margin: 10px 0 !important; padding: 5px 0 !important; }.menu-highlight:not(.header-simple) #Top_bar.is-sticky .menu > li > a span { line-height:30px !important;}.menu-line-below #Top_bar .menu > li > a:after { top: auto; bottom: -4px; }.menu-line-below #Top_bar.is-sticky .menu > li > a:after { top: auto; bottom: -4px; }.menu-line-below-80 #Top_bar:not(.is-sticky) .menu > li > a:after { height: 4px; left: 10%; top: 50%; margin-top: 20px; width: 80%; } .menu-line-below-80-1 #Top_bar:not(.is-sticky) .menu > li > a:after { height: 1px; left: 10%; top: 50%; margin-top: 20px; width: 80%; }.menu-arrow-top #Top_bar .menu > li > a:after { background: none repeat scroll 0 0 rgba(0, 0, 0, 0) !important; border-color: #cccccc transparent transparent transparent; border-style: solid; border-width: 7px 7px 0 7px; display: block; height: 0; left: 50%; margin-left: -7px; top: 0 !important; width: 0; }.menu-arrow-top.header-transparent #Top_bar .menu > li > a:after,.menu-arrow-top.header-plain #Top_bar .menu > li > a:after { display: none; }.menu-arrow-top #Top_bar.is-sticky .menu > li > a:after { top: 0px !important; }.menu-arrow-bottom #Top_bar .menu > li > a:after { background: none !important; border-color: transparent transparent #cccccc transparent; border-style: solid; border-width: 0 7px 7px; display: block; height: 0; left: 50%; margin-left: -7px; top: auto; bottom: 0; width: 0; }.menu-arrow-bottom.header-transparent #Top_bar .menu > li > a:after,.menu-arrow-bottom.header-plain #Top_bar .menu > li > a:after { display: none; }.menu-arrow-bottom #Top_bar.is-sticky .menu > li > a:after { top: auto; bottom: 0; }.menuo-no-borders #Top_bar .menu > li > a span:not(.description) { border-right-width: 0; }.menuo-no-borders #Header_creative #Top_bar .menu > li > a span { border-bottom-width: 0; }}@media only screen and (max-width: 1239px){.header_placeholder { height: 0 !important;}#Top_bar #menu { display:none; height: auto; width: 300px; bottom: auto; top: 100%; right: 1px; position: absolute; margin: 0px;}#Top_bar a.responsive-menu-toggle { display:block; width: 35px; height: 35px; text-align: center; position:absolute; top: 28px; right: 10px; -webkit-border-radius: 3px; border-radius: 3px;}#Top_bar a:hover.responsive-menu-toggle { text-decoration: none;}#Top_bar a.responsive-menu-toggle i { font-size: 25px; line-height: 35px;}#Top_bar a.responsive-menu-toggle span { float:right; padding:10px 5px; line-height:14px;}#Top_bar #menu > ul { width:100%; float: left; }#Top_bar #menu ul li { width: 100%; padding-bottom: 0; border-right: 0; position: relative; }#Top_bar #menu ul li a { padding:0 20px; margin:0; display: block; height: auto; line-height: normal; border:none; }#Top_bar #menu ul li a:after { display:none;}#Top_bar #menu ul li a span { border:none; line-height:48px; display:inline; padding:0;}#Top_bar #menu ul li a span.description { margin:0 0 0 5px;}#Top_bar #menu ul li.submenu .menu-toggle { display:block; position:absolute; right:0; top:0; width:48px; height:48px; line-height:48px; font-size:30px; text-align:center; color:#d6d6d6; border-left:1px solid #eee; cursor:pointer;}#Top_bar #menu ul li.submenu .menu-toggle:after { content:"+"}#Top_bar #menu ul li.hover > .menu-toggle:after { content:"-"}#Top_bar #menu ul li.hover a { border-bottom: 0; }#Top_bar #menu ul li a span:after { display:none !important;} #Top_bar #menu ul.mfn-megamenu li .menu-toggle { display:none;}#Top_bar #menu ul li ul { position:relative !important; left:0 !important; top:0; padding: 0; margin-left: 0 !important; width:auto !important; background-image:none !important;box-shadow: 0 0 0 0 transparent !important; -webkit-box-shadow: 0 0 0 0 transparent !important;}#Top_bar #menu ul li ul li { width:100% !important;}#Top_bar #menu ul li ul li a { padding: 0 20px 0 30px;}#Top_bar #menu ul li ul li a .menu-arrow { display: none;}#Top_bar #menu ul li ul li a span { padding:0;}#Top_bar #menu ul li ul li a span:after { display:none !important;}#Top_bar .menu > li > ul.mfn-megamenu a.mfn-megamenu-title { text-transform: uppercase; font-weight:400;}#Top_bar .menu > li > ul.mfn-megamenu > li > ul { display:block !important; position:inherit; left:auto; top:auto;}#Top_bar #menu ul li ul li ul { border-left: 0 !important; padding: 0; top: 0; }#Top_bar #menu ul li ul li ul li a { padding: 0 20px 0 40px;}.rtl #Top_bar #menu { left: 1px; right: auto;}.rtl #Top_bar a.responsive-menu-toggle { left:10px; right:auto; }.rtl #Top_bar #menu ul li.submenu .menu-toggle { left:0; right:auto; border-left:none; border-right:1px solid #eee;}.rtl #Top_bar #menu ul li ul { left:auto !important; right:0 !important;}.rtl #Top_bar #menu ul li ul li a { padding: 0 30px 0 20px;}.rtl #Top_bar #menu ul li ul li ul li a { padding: 0 40px 0 20px;}.header-stack #Top_bar {}.header-stack .menu_wrapper a.responsive-menu-toggle { position: static !important; margin: 11px 0; }.header-stack .menu_wrapper #menu { left: 0; right: auto; }.rtl.header-stack #Top_bar #menu { left: auto; right: 0; }}#Header_wrapper {background-color: #ffffff;}#Subheader {background-color: rgba(247, 247, 247, 1);}.header-classic #Action_bar, .header-plain #Action_bar, .header-stack #Action_bar {background-color: #252525;}#Sliding-top {background-color: #ffffff;}#Sliding-top a.sliding-top-control {border-right-color: #ffffff;}#Sliding-top.st-center a.sliding-top-control,#Sliding-top.st-left a.sliding-top-control {border-top-color: #ffffff;}#Footer {background-color: #f0f0f0;}body, ul.timeline_items, .icon_box a .desc, .icon_box a:hover .desc, .feature_list ul li a, .list_item a, .list_item a:hover,.widget_recent_entries ul li a, .flat_box a, .flat_box a:hover, .story_box .desc, .content_slider.carouselul li a .title,.content_slider.flat.description ul li .desc, .content_slider.flat.description ul li a .desc {color: #626262;}.themecolor, .opening_hours .opening_hours_wrapper li span, .fancy_heading_icon .icon_top,.fancy_heading_arrows .icon-right-dir, .fancy_heading_arrows .icon-left-dir, .fancy_heading_line .title,.button-love a.mfn-love, .format-link .post-title .icon-link, .pager-single > span, .pager-single a:hover,.widget_meta ul, .widget_pages ul, .widget_rss ul, .widget_mfn_recent_comments ul li:after, .widget_archive ul, .widget_recent_comments ul li:after, .widget_nav_menu ul, .woocommerce ul.products li.product .price, .shop_slider .shop_slider_ul li .item_wrapper .price, .woocommerce-page ul.products li.product .price, .widget_price_filter .price_label .from, .widget_price_filter .price_label .to,.woocommerce ul.product_list_widget li .quantity .amount, .woocommerce .product div.entry-summary .price, .woocommerce .star-rating span,#Error_404 .error_pic i, .style-simple #Filters .filters_wrapper ul li a:hover, .style-simple #Filters .filters_wrapper ul li.current-cat a,.style-simple .quick_fact .title {color: #000000;}.themebg, .pager .pages a:hover, .pager .pages a.active, .pager .pages span.page-numbers.current, .pager-single span:after, #comments .commentlist > li .reply a.comment-reply-link,.fixed-nav .arrow, #Filters .filters_wrapper ul li a:hover, #Filters .filters_wrapper ul li.current-cat a, .widget_categories ul, .Recent_posts ul li .desc:after, .Recent_posts ul li .photo .c,.widget_recent_entries ul li:after, .widget_mfn_menu ul li a:hover, .widget_mfn_menu ul li.current_page_item > a, .widget_product_categories ul, div.jp-interface, #Top_bar a#header_cart span, .testimonials_slider .slider_images, .testimonials_slider .slider_images a:after, .testimonials_slider .slider_images:before,.slider_pagination a.selected, .slider_pagination a.selected:after, .tp-bullets.simplebullets.round .bullet.selected, .tp-bullets.simplebullets.round .bullet.selected:after,.tparrows.default, .tp-bullets.tp-thumbs .bullet.selected:after, .offer_thumb .slider_pagination a:before, .offer_thumb .slider_pagination a.selected:after,.style-simple .accordion .question:after, .style-simple .faq .question:after, .style-simple .icon_box .desc_wrapper h4:before,.style-simple #Filters .filters_wrapper ul li a:after, .style-simple .article_box .desc_wrapper p:after, .style-simple .sliding_box .desc_wrapper:after,.style-simple .trailer_box:hover .desc, .woocommerce-account table.my_account_orders .order-number a, .portfolio_group.exposure .portfolio-item .desc-inner .line,.style-simple .zoom_box .desc .desc_txt {background-color: #000000;}.Latest_news ul li .photo, .style-simple .opening_hours .opening_hours_wrapper li label,.style-simple .timeline_items li:hover h3, .style-simple .timeline_items li:nth-child(even):hover h3, .style-simple .timeline_items li:hover .desc, .style-simple .timeline_items li:nth-child(even):hover,.style-simple .offer_thumb .slider_pagination a.selected {border-color: #000000;}a {color: #252525;}a:hover {color: #000000;}*::-moz-selection {background-color: #252525;}*::selection {background-color: #252525;}.blockquote p.author span, .counter .desc_wrapper .title, .article_box .desc_wrapper p, .team .desc_wrapper p.subtitle, .pricing-box .plan-header p.subtitle, .pricing-box .plan-header .price sup.period, .chart_box p, .fancy_heading .inside,.fancy_heading_line .slogan, .post-meta, .post-meta a, .post-footer, .post-footer a span.label, .pager .pages a, .button-love a .label,.pager-single a, #comments .commentlist > li .comment-author .says, .fixed-nav .desc .date, .filters_buttons li.label, .Recent_posts ul li a .desc .date,.widget_recent_entries ul li .post-date, .tp_recent_tweets .twitter_time, .widget_price_filter .price_label, .shop-filters .woocommerce-result-count,.woocommerce ul.product_list_widget li .quantity, .widget_shopping_cart ul.product_list_widget li dl, .product_meta .posted_in,.woocommerce .shop_table .product-name .variation > dd, .shipping-calculator-button:after,.shop_slider .shop_slider_ul li .item_wrapper .price del,.testimonials_slider .testimonials_slider_ul li .author span, .testimonials_slider .testimonials_slider_ul li .author span a, .Latest_news ul li .desc_footer {color: #a8a8a8;}h1, h1 a, h1 a:hover, .text-logo #logo { color: #000000; }h2, h2 a, h2 a:hover { color: #000000; }h3, h3 a, h3 a:hover { color: #000000; }h4, h4 a, h4 a:hover, .style-simple .sliding_box .desc_wrapper h4 { color: #000000; }h5, h5 a, h5 a:hover { color: #000000; }h6, h6 a, h6 a:hover, a.content_link .title { color: #000000; }.dropcap, .highlight:not(.highlight_image) {background-color: #000000;}a.button, a.tp-button {background-color: #f7f7f7;color: #747474;}.button-stroke a.button, .button-stroke a.button .button_icon i, .button-stroke a.tp-button {border-color: #f7f7f7;color: #747474;}.button-stroke a:hover.button, .button-stroke a:hover.tp-button {background-color: #f7f7f7 !important;color: #fff;}a.button_theme, a.tp-button.button_theme,button, input[type="submit"], input[type="reset"], input[type="button"] {background-color: #000000;color: #fff;}.button-stroke a.button.button_theme:not(.action_button), .button-stroke a.button.button_theme:not(.action_button),.button-stroke a.button.button_theme .button_icon i, .button-stroke a.tp-button.button_theme,.button-stroke button, .button-stroke input[type="submit"], .button-stroke input[type="reset"], .button-stroke input[type="button"] {border-color: #000000;color: #000000 !important;}.button-stroke a.button.button_theme:hover, .button-stroke a.tp-button.button_theme:hover,.button-stroke button:hover, .button-stroke input[type="submit"]:hover, .button-stroke input[type="reset"]:hover, .button-stroke input[type="button"]:hover {background-color: #000000 !important;color: #fff !important;}a.mfn-link { color: #656B6F; }a.mfn-link-2 span, a:hover.mfn-link-2 span:before, a.hover.mfn-link-2 span:before, a.mfn-link-5 span, a.mfn-link-8:after, a.mfn-link-8:before { background: #252525; }a:hover.mfn-link { color: #252525;}a.mfn-link-2 span:before, a:hover.mfn-link-4:before, a:hover.mfn-link-4:after, a.hover.mfn-link-4:before, a.hover.mfn-link-4:after, a.mfn-link-5:before, a.mfn-link-7:after, a.mfn-link-7:before { background: #000000; }a.mfn-link-6:before {border-bottom-color: #000000;}.woocommerce a.button, .woocommerce .quantity input.plus, .woocommerce .quantity input.minus {background-color: #f7f7f7 !important;color: #747474 !important;}.woocommerce a.button_theme, .woocommerce a.checkout-button, .woocommerce button.button,.woocommerce .button.add_to_cart_button, .woocommerce .button.product_type_external,.woocommerce input[type="submit"], .woocommerce input[type="reset"], .woocommerce input[type="button"],.button-stroke .woocommerce a.checkout-button {background-color: #000000 !important;color: #fff !important;}.column_column ul, .column_column ol, .the_content_wrapper ul, .the_content_wrapper ol {color: #737E86;}.hr_color, .hr_color hr, .hr_dots span {color: #000000;background: #000000;}.hr_zigzag i {color: #000000;} .highlight-left:after,.highlight-right:after {background: #000000;}@media only screen and (max-width: 767px) {.highlight-left .wrap:first-child,.highlight-right .wrap:last-child {background: #000000;}}#Header .top_bar_left, .header-classic #Top_bar, .header-plain #Top_bar, .header-stack #Top_bar, .header-split #Top_bar,.header-fixed #Top_bar, .header-below #Top_bar, #Header_creative, #Top_bar #menu {background-color: #ffffff;}#Top_bar .top_bar_right:before {background-color: #e3e3e3;}#Header .top_bar_right {background-color: #f5f5f5;}#Top_bar .top_bar_right a { color: #205862;}#Top_bar .menu > li > a { color: #252525;}#Top_bar .menu > li.current-menu-item > a,#Top_bar .menu > li.current_page_item > a,#Top_bar .menu > li.current-menu-parent > a,#Top_bar .menu > li.current-page-parent > a,#Top_bar .menu > li.current-menu-ancestor > a,#Top_bar .menu > li.current-page-ancestor > a,#Top_bar .menu > li.current_page_ancestor > a,#Top_bar .menu > li.hover > a { color: #000000; }#Top_bar .menu > li a:after { background: #000000; }.menu-highlight #Top_bar #menu > ul > li.current-menu-item > a,.menu-highlight #Top_bar #menu > ul > li.current_page_item > a,.menu-highlight #Top_bar #menu > ul > li.current-menu-parent > a,.menu-highlight #Top_bar #menu > ul > li.current-page-parent > a,.menu-highlight #Top_bar #menu > ul > li.current-menu-ancestor > a,.menu-highlight #Top_bar #menu > ul > li.current-page-ancestor > a,.menu-highlight #Top_bar #menu > ul > li.current_page_ancestor > a,.menu-highlight #Top_bar #menu > ul > li.hover > a { background: #F2F2F2; }.menu-arrow-bottom #Top_bar .menu > li > a:after { border-bottom-color: #000000;}.menu-arrow-top #Top_bar .menu > li > a:after {border-top-color: #000000;}.header-plain #Top_bar .menu > li.current-menu-item > a,.header-plain #Top_bar .menu > li.current_page_item > a,.header-plain #Top_bar .menu > li.current-menu-parent > a,.header-plain #Top_bar .menu > li.current-page-parent > a,.header-plain #Top_bar .menu > li.current-menu-ancestor > a,.header-plain #Top_bar .menu > li.current-page-ancestor > a,.header-plain #Top_bar .menu > li.current_page_ancestor > a,.header-plain #Top_bar .menu > li.hover > a,.header-plain #Top_bar a:hover#header_cart,.header-plain #Top_bar a:hover#search_button,.header-plain #Top_bar .wpml-languages:hover,.header-plain #Top_bar .wpml-languages ul.wpml-lang-dropdown {background: #F2F2F2; color: #000000;}.header-plain #Top_bar,.header-plain #Top_bar .menu > li > a span:not(.description),.header-plain #Top_bar a#header_cart,.header-plain #Top_bar a#search_button,.header-plain #Top_bar .wpml-languages,.header-plain #Top_bar a.button.action_button {border-color: #F2F2F2;}#Top_bar .menu > li ul {background-color: #F2F2F2;}#Top_bar .menu > li ul li a {color: #5f5f5f;}#Top_bar .menu > li ul li a:hover,#Top_bar .menu > li ul li.hover > a {color: #2e2e2e;}#Top_bar .search_wrapper { background: #e3e3e3; }#Subheader .title{color: #888888;}#Subheader ul.breadcrumbs li, #Subheader ul.breadcrumbs li a{color: rgba(136, 136, 136, 0.6);}.overlay-menu-toggle {color: #205862 !important; }#Overlay {background: rgba(43, 43, 43, 0.95);}#overlay-menu ul li a, .header-overlay .overlay-menu-toggle.focus {color: #ffffff;}#overlay-menu ul li.current-menu-item > a,#overlay-menu ul li.current_page_item > a,#overlay-menu ul li.current-menu-parent > a,#overlay-menu ul li.current-page-parent > a,#overlay-menu ul li.current-menu-ancestor > a,#overlay-menu ul li.current-page-ancestor > a,#overlay-menu ul li.current_page_ancestor > a { color: #f06a70; }#Footer, #Footer .widget_recent_entries ul li a {color: #adacae;}#Footer a {color: #D41711;}#Footer a:hover {color: #6b666f;}#Footer h1, #Footer h1 a, #Footer h1 a:hover,#Footer h2, #Footer h2 a, #Footer h2 a:hover,#Footer h3, #Footer h3 a, #Footer h3 a:hover,#Footer h4, #Footer h4 a, #Footer h4 a:hover,#Footer h5, #Footer h5 a, #Footer h5 a:hover,#Footer h6, #Footer h6 a, #Footer h6 a:hover {color: #D41711;}#Footer .themecolor, #Footer .widget_meta ul, #Footer .widget_pages ul, #Footer .widget_rss ul, #Footer .widget_mfn_recent_comments ul li:after, #Footer .widget_archive ul, #Footer .widget_recent_comments ul li:after, #Footer .widget_nav_menu ul, #Footer .widget_price_filter .price_label .from, #Footer .widget_price_filter .price_label .to,#Footer .star-rating span {color: #6b666f;}#Footer .themebg, #Footer .widget_categories ul, #Footer .Recent_posts ul li .desc:after, #Footer .Recent_posts ul li .photo .c,#Footer .widget_recent_entries ul li:after, #Footer .widget_mfn_menu ul li a:hover, #Footer .widget_product_categories ul {background-color: #6b666f;}#Footer .Recent_posts ul li a .desc .date, #Footer .widget_recent_entries ul li .post-date, #Footer .tp_recent_tweets .twitter_time, #Footer .widget_price_filter .price_label, #Footer .shop-filters .woocommerce-result-count, #Footer ul.product_list_widget li .quantity, #Footer .widget_shopping_cart ul.product_list_widget li dl {color: #a8a8a8;}#Sliding-top, #Sliding-top .widget_recent_entries ul li a {color: #adacae;}#Sliding-top a {color: #89878b;}#Sliding-top a:hover {color: #6b666f;}#Sliding-top h1, #Sliding-top h1 a, #Sliding-top h1 a:hover,#Sliding-top h2, #Sliding-top h2 a, #Sliding-top h2 a:hover,#Sliding-top h3, #Sliding-top h3 a, #Sliding-top h3 a:hover,#Sliding-top h4, #Sliding-top h4 a, #Sliding-top h4 a:hover,#Sliding-top h5, #Sliding-top h5 a, #Sliding-top h5 a:hover,#Sliding-top h6, #Sliding-top h6 a, #Sliding-top h6 a:hover {color: #3d3a41;}#Sliding-top .themecolor, #Sliding-top .widget_meta ul, #Sliding-top .widget_pages ul, #Sliding-top .widget_rss ul, #Sliding-top .widget_mfn_recent_comments ul li:after, #Sliding-top .widget_archive ul, #Sliding-top .widget_recent_comments ul li:after, #Sliding-top .widget_nav_menu ul, #Sliding-top .widget_price_filter .price_label .from, #Sliding-top .widget_price_filter .price_label .to,#Sliding-top .star-rating span {color: #6b666f;}#Sliding-top .themebg, #Sliding-top .widget_categories ul, #Sliding-top .Recent_posts ul li .desc:after, #Sliding-top .Recent_posts ul li .photo .c,#Sliding-top .widget_recent_entries ul li:after, #Sliding-top .widget_mfn_menu ul li a:hover, #Sliding-top .widget_product_categories ul {background-color: #6b666f;}#Sliding-top .Recent_posts ul li a .desc .date, #Sliding-top .widget_recent_entries ul li .post-date, #Sliding-top .tp_recent_tweets .twitter_time, #Sliding-top .widget_price_filter .price_label, #Sliding-top .shop-filters .woocommerce-result-count, #Sliding-top ul.product_list_widget li .quantity, #Sliding-top .widget_shopping_cart ul.product_list_widget li dl {color: #a8a8a8;}blockquote, blockquote a, blockquote a:hover {color: #444444;}.image_frame .image_wrapper .image_links,.portfolio_group.masonry-hover .portfolio-item .masonry-hover-wrapper .hover-desc { background: rgba(0, 0, 0, 0.8);}.masonry.tiles .post-item .post-desc-wrapper .post-desc .post-title:after, .masonry.tiles .post-item.no-img, .masonry.tiles .post-item.format-quote {background: #000000;} .image_frame .image_wrapper .image_links a {color: #ffffff;}.image_frame .image_wrapper .image_links a:hover {background: #ffffff;color: #000000;}.sliding_box .desc_wrapper {background: #000000;}.sliding_box .desc_wrapper:after {border-bottom-color: #000000;}.counter .icon_wrapper i {color: #000000;}.quick_fact .number-wrapper {color: #000000;}.progress_bars .bars_list li .bar .progress { background-color: #000000;}a:hover.icon_bar {color: #000000 !important;}a.content_link, a:hover.content_link {color: #000000;}a.content_link:before {border-bottom-color: #000000;}a.content_link:after {border-color: #000000;}.get_in_touch, .infobox {background-color: #000000;}.column_map .google-map-contact-wrapper .get_in_touch:after {border-top-color: #000000;}.timeline_items li h3:before,.timeline_items:after,.timeline .post-item:before { border-color: #000000;}.how_it_works .image .number { background: #000000;}.trailer_box .desc .subtitle {background-color: #000000;}.icon_box .icon_wrapper, .icon_box a .icon_wrapper,.style-simple .icon_box:hover .icon_wrapper {color: #000000;}.icon_box:hover .icon_wrapper:before, .icon_box a:hover .icon_wrapper:before { background-color: #000000;}ul.clients.clients_tiles li .client_wrapper:hover:before { background: #000000;}ul.clients.clients_tiles li .client_wrapper:after { border-bottom-color: #000000;}.list_item.lists_1 .list_left {background-color: #000000;}.list_item .list_left {color: #000000;}.feature_list ul li .icon i { color: #000000;}.feature_list ul li:hover,.feature_list ul li:hover a {background: #000000;}.ui-tabs .ui-tabs-nav li.ui-state-active a,.accordion .question.active .title > .acc-icon-plus,.accordion .question.active .title > .acc-icon-minus,.faq .question.active .title > .acc-icon-plus,.faq .question.active .title,.accordion .question.active .title {color: #000000;}.ui-tabs .ui-tabs-nav li.ui-state-active a:after {background: #000000;}body:not(.woocommerce-page) table tr:hover td {background: #000000;}.pricing-box .plan-header .price sup.currency,.pricing-box .plan-header .price > span {color: #000000;}.pricing-box .plan-inside ul li .yes { background: #000000;}.pricing-box-box.pricing-box-featured {background: #000000;}.woocommerce span.onsale, .shop_slider .shop_slider_ul li .item_wrapper span.onsale {border-top-color: #000000 !important;}.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {border-color: #000000 !important;}@media only screen and (min-width: 768px){.header-semi #Top_bar:not(.is-sticky) {background-color: rgba(255, 255, 255, 0.8);}}@media only screen and (max-width: 767px){#Top_bar, #Action_bar { background: #ffffff !important;}}html { background-color: #FCFCFC;}#Wrapper, #Content { background-color: #fbfbfb;}body, button, span.date_label, .timeline_items li h3 span, input[type="submit"], input[type="reset"], input[type="button"],input[type="text"], input[type="password"], input[type="tel"], input[type="email"], textarea, select, .offer_li .title h3 {font-family: "Arial", Arial, Tahoma, sans-serif;font-weight: 400;}#menu > ul > li > a, .action_button, #overlay-menu ul li a {font-family: "Arial", Arial, Tahoma, sans-serif;font-weight: 400;}#Subheader .title {font-family: "Arial", Arial, Tahoma, sans-serif;font-weight: 400;}h1, .text-logo #logo {font-family: "Arial", Arial, Tahoma, sans-serif;font-weight: 300;}h2 {font-family: "Arial", Arial, Tahoma, sans-serif;font-weight: 300;}h3 {font-family: "Arial", Arial, Tahoma, sans-serif;font-weight: 300;}h4 {font-family: "Arial", Arial, Tahoma, sans-serif;font-weight: 300;}h5 {font-family: "Arial", Arial, Tahoma, sans-serif;font-weight: 700;}h6 {font-family: "Arial", Arial, Tahoma, sans-serif;font-weight: 400;}blockquote {font-family: "Arial", Arial, Tahoma, sans-serif;}.chart_box .chart .num, .counter .desc_wrapper .number-wrapper, .how_it_works .image .number,.pricing-box .plan-header .price, .quick_fact .number-wrapper, .woocommerce .product div.entry-summary .price {font-family: "Arial", Arial, Tahoma, sans-serif;}body {font-size: 14px;line-height: 22px;}#menu > ul > li > a, .action_button {font-size: 14px;}#Subheader .title {font-size: 25px;line-height: 25px;}h1, .text-logo #logo { font-size: 25px;line-height: 25px;}h2 { font-size: 40px;line-height: 40px;}h3 {font-size: 30px;line-height: 32px;}h4 {font-size: 26px;line-height: 30px;}h5 {font-size: 20px;line-height: 25px;}h6 {font-size: 17px;line-height: 24px;}@media only screen and (min-width: 768px) and (max-width: 959px){body {font-size: 13px;line-height: 20px;}#menu > ul > li > a {font-size: 13px;}#Subheader .title {font-size: 23px;line-height: 23px;}h1, .text-logo #logo {font-size: 23px;line-height: 23px;}h2 {font-size: 36px;line-height: 36px;}h3 {font-size: 27px;line-height: 29px;}h4 {font-size: 23px;line-height: 27px;}h5 {font-size: 18px;line-height: 22px;}h6 {font-size: 15px;line-height: 21px;}blockquote { font-size: 15px;}.the_content_wrapper ul, .the_content_wrapper ol { font-size: 14px; line-height: 19px; }.faq .question .title { font-size: 14px; }.pricing-box .plan-header h2 { font-size: 27px; line-height: 27px; }.pricing-box .plan-header .price > span { font-size: 40px; line-height: 40px; }.pricing-box .plan-header .price sup.currency { font-size: 18px; line-height: 18px; }.pricing-box .plan-header .price sup.period { font-size: 14px; line-height: 14px;}.offer .offer_li .desc_wrapper .title h3 { font-size: 32px; line-height: 32px; }.offer_thumb_ul li.offer_thumb_li .desc_wrapper .title h3 {font-size: 32px; line-height: 32px; }.counter .desc_wrapper .number-wrapper { font-size: 45px; line-height: 45px;}.counter .desc_wrapper .title { font-size: 14px; line-height: 18px;}.chart_box .chart .num { font-size: 45px; line-height: 45px; }.trailer_box .desc h2 { font-size: 27px; line-height: 27px; }.quick_fact .number { font-size: 80px; line-height: 80px;}}@media only screen and (min-width: 480px) and (max-width: 767px){body {font-size: 13px;line-height: 20px;}#menu > ul > li > a {font-size: 13px;}#Subheader .title {font-size: 20px;line-height: 20px;}h1, .text-logo #logo {font-size: 20px;line-height: 20px;}h2 {font-size: 32px;line-height: 32px;}h3 {font-size: 24px;line-height: 26px;}h4 {font-size: 21px;line-height: 25px;}h5 {font-size: 16px;line-height: 20px;}h6 {font-size: 14px;line-height: 19px;}blockquote { font-size: 14px;}.the_content_wrapper ul, .the_content_wrapper ol { font-size: 13px; line-height: 16px; }.faq .question .title { font-size: 13px; }.pricing-box .plan-header h2 { font-size: 24px; line-height: 24px; }.pricing-box .plan-header .price > span { font-size: 34px; line-height: 34px; }.pricing-box .plan-header .price sup.currency { font-size: 16px; line-height: 16px; }.pricing-box .plan-header .price sup.period { font-size: 13px; line-height: 13px;}.offer .offer_li .desc_wrapper .title h3 { font-size: 28px; line-height: 28px; }.offer_thumb_ul li.offer_thumb_li .desc_wrapper .title h3 {font-size: 28px; line-height: 28px; }.counter .desc_wrapper .number-wrapper { font-size: 40px; line-height: 40px;}.counter .desc_wrapper .title { font-size: 13px; line-height: 16px;}.chart_box .chart .num { font-size: 40px; line-height: 40px; }.trailer_box .desc h2 { font-size: 24px; line-height: 24px; }.quick_fact .number { font-size: 70px; line-height: 70px;}}@media only screen and (max-width: 479px){body {font-size: 13px;line-height: 20px;}#menu > ul > li > a {font-size: 13px;}#Subheader .title {font-size: 18px;line-height: 18px;}h1, .text-logo #logo {font-size: 18px;line-height: 18px;}h2 { font-size: 28px;line-height: 28px;}h3 {font-size: 21px;line-height: 23px;}h4 {font-size: 18px;line-height: 21px;}h5 {font-size: 14px;line-height: 17px;}h6 {font-size: 13px;line-height: 17px;}blockquote { font-size: 13px;}.the_content_wrapper ul, .the_content_wrapper ol { font-size: 13px; line-height: 16px; }.faq .question .title { font-size: 13px; }.pricing-box .plan-header h2 { font-size: 21px; line-height: 21px; }.pricing-box .plan-header .price > span { font-size: 32px; line-height: 32px; }.pricing-box .plan-header .price sup.currency { font-size: 14px; line-height: 14px; }.pricing-box .plan-header .price sup.period { font-size: 13px; line-height: 13px;}.offer .offer_li .desc_wrapper .title h3 { font-size: 26px; line-height: 26px; }.offer_thumb_ul li.offer_thumb_li .desc_wrapper .title h3 {font-size: 26px; line-height: 26px; }.counter .desc_wrapper .number-wrapper { font-size: 35px; line-height: 35px;}.counter .desc_wrapper .title { font-size: 13px; line-height: 26px;}.chart_box .chart .num { font-size: 35px; line-height: 35px; }.trailer_box .desc h2 { font-size: 21px; line-height: 21px; }.quick_fact .number { font-size: 60px; line-height: 60px;}}.with_aside .sidebar.columns {width: 25%;}.with_aside .sections_group {width: 73%;}.aside_both .sidebar.columns {width: 20%;}.aside_both .sidebar-1{ margin-left: -77%;}.aside_both .sections_group {width: 56%;margin-left: 22%;}@media only screen and (min-width:1240px){#Wrapper {max-width: 1200px;}.section_wrapper, .container, .with_aside .content_wrapper {max-width: 1180px;}.layout-boxed.header-boxed #Top_bar.is-sticky{max-width: 1200px;}}
+</style>
+<!-- style | custom css | theme options -->
+<style id="mfn-dnmc-theme-css">
+h1 { font-weight: 400; }
+h2 { font-weight: 400; letter-spacing: 1px; }
+h3 { font-weight: 400; }
+h4 { font-weight: 700; }
+h5 { font-weight: 700; letter-spacing: 2px; }
+h6 { font-weight: 700; }
+
+/* Header */
+.header-classic #Top_bar { border-bottom: 1px solid #e1e1e1; }
+#Top_bar .menu > li > a span:not(.description) { padding: 0 15px; }
+/* Menu */
+#Top_bar .menu > li > a:after { bottom: 0 !important; height: 10px; left: 50%; top: auto; width: 1px; }
+#Top_bar .menu > li > a span:not(.description) { letter-spacing: 2px; }
+
+/* Action bar */
+#Action_bar a { color: #ccc; }
+
+/* Widget */
+.widget-area:before { display: none; }
+.aside_left .widget-area { border: 0; }
+.widget { padding-bottom: 0; }
+.widget:after { border: 0; }
+
+/* Icon box */
+.icon_box { background: #fff; border: 1px solid #e1e1e1; margin-bottom: 50px; }
+.icon_box .image_wrapper { margin-top: -45px; }
+.icon_box .desc { margin: 0 8%; }
+.icon_box .desc a.button { margin-bottom: -39px; }
+
+/* Offer box */
+.offer_box { text-align: left; background: #252525; padding: 20px; }
+.offer_box h5 { text-align: center; }
+.offer_box .offer_box_list a { display: block; border-style: solid; border-color: rgba(255,255,255,.5); border-width: 1px 1px 0 1px; background: url(https://www.crefsc.org.br/wp-content/uploads/2015/06/home_interactive_offerbox_icon.png) no-repeat 15px 20px; padding: 18px 15px 18px 45px; font-weight: 700; color: #fff; font-size: 16px; letter-spacing: 2px; word-wrap: break-word; }
+.offer_box .offer_box_list a:last-child { border-width: 1px; }
+.offer_box .offer_box_button { padding-top: 20px; background: url(https://www.crefsc.org.br/wp-content/uploads/2015/06/home_interactive_offerbox_sep.png) no-repeat center top; text-align: center; }
+.offer_box .offer_box_button a.button { margin: 0; }
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	.offer_box .offer_box_list a { padding: 18px 15px 18px 15px; font-size: 13px; background: none; }
+}
+
+/* About box */
+.about_box { background: #fff; padding: 20px; border: 1px solid #e1e1e1; z-index: 2; position: relative; }
+@media only screen and (min-width: 768px) {
+	.about_box { margin-right: -100px; }
+}
+
+/* Content box */
+.content_box { background: #fff; padding: 20px; border: 1px solid #808080; margin: 0 4%; }
+.content_box h2 { margin-top: -43px; }
+
+/* Counter */
+.counter { background: #fff; padding: 20px; border: 1px solid #e1e1e1; }
+.counter .desc_wrapper .number-wrapper { color: #000 !important; font-family: Raleway; font-size: 44px; font-weight: 500; line-height: 44px; }
+
+/* Get in touch */
+.get_in_touch ul li .icon { color: rgba(255, 255, 255, 0.7); left: 5px; top: 13px; }
+.get_in_touch ul li { border: 1px solid #e1e1e1; margin-top: -1px; padding: 20px 0 20px 50px; }
+.get_in_touch ul li:after { display: none; }
+.column_map .google-map-contact-wrapper .get_in_touch:after { display: none; }
+
+/* Footer */
+#Footer { border-top: 1px solid #e1e1e1; }
+#Footer .widgets_wrapper { padding: 40px 0; }
+#Footer .widget > h4 { font-size: 18px; font-weight: 300; margin-bottom: 20px; }
+#Footer .footer_copy { background: #252525; border-top: 0; }
+#Footer .footer_copy .social { display: none; }
+
+/* Button */
+a.button, a.tp-button, button, input[type="submit"], input[type="reset"], input[type="button"] { border-radius: 0; background-image: none; box-shadow: 0 0 0 0 rgba(0, 0, 0, 0) inset; }
+
+.button-stroke a.button:not(.action_button),
+.button-stroke:not(.header-plain) a.button.action_button,
+.button-stroke a.tp-button,
+.button-stroke button,
+.button-stroke input[type="submit"],
+.button-stroke input[type="reset"],
+.button-stroke input[type="button"] { border-width: 1px; -webkit-border-radius: 1px; border-radius: 1px; }
+
+.tp-tab-title{display: none !important}
+
+.mapa-site a{
+ color: #ffffff !important;
+font-size: 95%
+}
+
+.mapa-site h6{
+font-size: 15px !important;
+}
+
+.home .category-noticias-2 img { 
+   height: 150px !important;
+   object-fit: cover;
+}
+</style>
+
+<!--[if lt IE 9]>
+<script id="mfn-html5" src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<meta name="generator" content="Powered by Slider Revolution 6.6.18 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://crefsc.org.br/wp-content/uploads/2023/10/cropped-Artboard-1-copy-2-copia-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://crefsc.org.br/wp-content/uploads/2023/10/cropped-Artboard-1-copy-2-copia-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://crefsc.org.br/wp-content/uploads/2023/10/cropped-Artboard-1-copy-2-copia-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://crefsc.org.br/wp-content/uploads/2023/10/cropped-Artboard-1-copy-2-copia-270x270.jpg" />
+<script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) || (e.l=="fullwidth" || e.layout=="fullwidth") ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<!-- body -->
+<body class="page-template-default page page-id-4567 page-child parent-pageid-2288  color-custom style-default layout-full-width nice-scroll-on mobile-tb-left if-overlay hide-love header-classic minimalist-header-no sticky-white ab-show subheader-title-left menu-line-below-80-1 footer-stick footer-copy-center wpb-js-composer js-comp-ver-7.2 vc_responsive">
+	
+	<!-- mfn_hook_top --><!-- mfn_hook_top -->	
+	<div id="Sliding-top" class="st-1"><div class="widgets_wrapper"><div class="container"></div></div><a href="#" class="sliding-top-control"><span><i class="plus icon-down-open-mini"></i><i class="minus icon-up-open-mini"></i></span></a></div>	
+		
+	<!-- #Wrapper -->
+	<div id="Wrapper">
+	
+				
+			
+		<!-- #Header_bg -->
+		<div id="Header_wrapper" >
+	
+			<!-- #Header -->
+			<header id="Header">
+				
+	<div id="Action_bar">
+		<div class="container">
+			<div class="column one">
+			
+				<ul class="contact_details">
+					<li class="phone"><i class="icon-phone"></i><a href="tel:Telefone/whatsapp:(48)3348-7007">Telefone/whatsapp: (48) 3348-7007</a></li><li class="mail"><i class="icon-mail-line"></i><a href="mailto:crefsc@crefsc.org.br">crefsc@crefsc.org.br</a></li>				</ul>
+				
+				<ul class="social"><li class="facebook"><a  href="https://www.facebook.com/CREF3SC/" title="Facebook"><i class="icon-facebook"></i></a></li><li class="youtube"><a  href="youtube.com/cref3sc" title="YouTube"><i class="icon-play"></i></a></li><li class="instagram"><a  href="https://www.instagram.com/cref3sc" title="Instagram"><i class="icon-instagram"></i></a></li><li class="rss"><a  href="https://crefsc.org.br/feed/" title="RSS"><i class="icon-rss"></i></a></li></ul>
+			</div>
+		</div>
+	</div>
+
+
+<!-- .header_placeholder 4sticky  -->
+<div class="header_placeholder"></div>
+
+<div id="Top_bar" class="loading">
+
+	<div class="container">
+		<div class="column one">
+		
+			<div class="top_bar_left clearfix">
+			
+				<!-- .logo -->
+				<div class="logo">
+					<a id="logo" href="https://crefsc.org.br" title="CREF3/SC - Conselho Regional de Educação Física de SC"><img class="logo-main   scale-with-grid" src="https://crefsc.org.br/wp-content/uploads/2023/10/Logo-CREF-ColoridoPreto-Horizontal.png" 	alt="CREF3/SC - Conselho Regional de Educação Física de SC" /><img class="logo-sticky scale-with-grid" src="https://crefsc.org.br/wp-content/uploads/2023/10/Logo-CREF-ColoridoPreto-Horizontal.png" alt="" /><img class="logo-mobile scale-with-grid" src="https://crefsc.org.br/wp-content/uploads/2023/10/Logo-CREF-ColoridoPreto-Horizontal.png" alt="" /></a>				</div>
+			
+				<div class="menu_wrapper">
+					<nav id="menu" class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-2685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://crefsc.org.br/?page_id=2323"><span>Conselho</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-15411" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/institucional/sobre-o-cref3sc/"><span>Sobre o CREF3/SC</span></a></li>
+	<li id="menu-item-15413" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/institucional/quem-e-quem/"><span>Quem é quem</span></a></li>
+	<li id="menu-item-15415" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/institucional/comissoes/"><span>Câmaras</span></a></li>
+	<li id="menu-item-19181" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/medalha-do-merito/"><span>Medalha do Mérito</span></a></li>
+	<li id="menu-item-10537" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/acoes-do-cref3sc/"><span>Dados</span></a></li>
+	<li id="menu-item-2334" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/institucional/faq/"><span>Perguntas Frequentes</span></a></li>
+</ul>
+</li>
+<li id="menu-item-21838" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://crefsc.org.br/cref-enova/"><span>CREF e-nova</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-21840" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/quero-empreender/"><span>Quero Empreender</span></a></li>
+	<li id="menu-item-21839" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/empreendo-tenho-meu-negocio/"><span>Sou empreendedor</span></a></li>
+</ul>
+</li>
+<li id="menu-item-15417" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://crefsc.org.br/eventos/"><span>Eventos | Comunicação</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-17108" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://ava.crefsc.org.br/"><span>Plataforma de Cursos Online</span></a></li>
+	<li id="menu-item-7636" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.crefsc.org.br/eventos/"><span>Programação</span></a></li>
+	<li id="menu-item-7635" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://online.crefsc.org.br/spw/cursos/Entrada.aspx"><span>Inscrições/Certificados</span></a></li>
+	<li id="menu-item-3431" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/publicacoes/"><span>Biblioteca Virtual</span></a></li>
+	<li id="menu-item-3434" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://crefsc.org.br/comunicacao/"><span>Comunicação</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-3430" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/noticias-bkp/"><span>Notícias</span></a></li>
+		<li id="menu-item-3429" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/jornais/"><span>Jornais</span></a></li>
+		<li id="menu-item-3428" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/material-grafico/"><span>Material Gráfico</span></a></li>
+		<li id="menu-item-3426" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/galeria-de-fotos/"><span>Galeria de Fotos</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-2331" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><span>Profissional</span></a>
+<ul class="sub-menu mfn-megamenu mfn-megamenu-3">
+	<li id="menu-item-2307" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children mfn-megamenu-cols-3"><a class="mfn-megamenu-title" href="http://#"><span>.</span></a>
+	<ul class="sub-menu mfn-megamenu mfn-megamenu-3">
+		<li id="menu-item-18180" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/pessoa-fisica/registro-novo-profissional/"><span>Registro Novo</span></a></li>
+		<li id="menu-item-2466" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/pessoa-fisica/registro-secundario-pf/"><span>Registro Secundário</span></a></li>
+		<li id="menu-item-18621" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/pessoa-fisica/registro-de-especialidade/"><span>Registro de Especialidade</span></a></li>
+		<li id="menu-item-16865" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/pessoa-fisica/complementacao-de-documentos/"><span>Complementação de documentos</span></a></li>
+		<li id="menu-item-16868" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/pessoa-fisica/solicitacao-de-documentos-arquivados/"><span>Solicitação de documentos arquivados</span></a></li>
+		<li id="menu-item-18622" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/transferencia-de-registro/"><span>Transferência de Registro</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-2470" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children mfn-megamenu-cols-3"><a class="mfn-megamenu-title" href="#"><span>.</span></a>
+	<ul class="sub-menu mfn-megamenu mfn-megamenu-3">
+		<li id="menu-item-2462" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/pessoa-fisica/baixa-e-cancelamento-de-registro-profissional-pf/"><span>Baixa de Registro Profissional</span></a></li>
+		<li id="menu-item-17857" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/renovacao-de-cedula-de-identidade-profissional/"><span>Renovação de Cédula de Identidade Profissional</span></a></li>
+		<li id="menu-item-7205" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/pessoa-fisica/alteracao-de-categoria/"><span>Alteração de Categoria</span></a></li>
+		<li id="menu-item-18647" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/revigoramento-de-registro/"><span>Revigoramento de Registro</span></a></li>
+		<li id="menu-item-18624" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/segunda-via-de-cip/"><span>Segunda via de Cédula de Identidade Profissional</span></a></li>
+		<li id="menu-item-2460" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/pessoa-fisica/anuidade-pf/"><span>Anuidade</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-2471" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children mfn-megamenu-cols-3"><a class="mfn-megamenu-title" href="#"><span>.</span></a>
+	<ul class="sub-menu mfn-megamenu mfn-megamenu-3">
+		<li id="menu-item-2461" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/pessoa-fisica/autonomos-pf/"><span>Autônomos</span></a></li>
+		<li id="menu-item-2468" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/pessoa-fisica/requerimento-permanencia-de-180-dias-pf/"><span>Requerimento Permanência de 180 dias</span></a></li>
+		<li id="menu-item-2464" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/pessoa-fisica/isencao-por-idade-pf/"><span>Isenção por Idade</span></a></li>
+		<li id="menu-item-20172" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/atualizacao-cadastral-alteracao-de-endereco/"><span>Atualização Cadastral | Alteração de Endereço</span></a></li>
+		<li id="menu-item-2463" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/pessoa-fisica/entrega-de-cedulas-na-formatura-pf/"><span>Entrega de CIP na formatura</span></a></li>
+		<li id="menu-item-17873" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/baixa-de-responsabilidade-tecnica/"><span>Baixa de Responsabilidade Técnica</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-2332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><span>Empresa</span></a>
+<ul class="sub-menu mfn-megamenu mfn-megamenu-2">
+	<li id="menu-item-2473" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children mfn-megamenu-cols-2"><a class="mfn-megamenu-title" href="#"><span>.</span></a>
+	<ul class="sub-menu mfn-megamenu mfn-megamenu-2">
+		<li id="menu-item-2440" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/pessoa-juridica/registro-novo-pj/"><span>Registro Novo</span></a></li>
+		<li id="menu-item-20171" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/atualizacao-cadastral-alteracao-de-endereco-pj/"><span>Atualização Cadastral | Alteração de Endereço PJ</span></a></li>
+		<li id="menu-item-2435" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/pessoa-juridica/autonomos-pj/"><span>Autônomos</span></a></li>
+		<li id="menu-item-2436" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/pessoa-juridica/baixacancelamento-de-registro-pj/"><span>Baixa/Cancelamento de Registro</span></a></li>
+		<li id="menu-item-2439" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/pessoa-juridica/emissao-de-2-via-de-certificado-de-pessoa-juridica/"><span>Emissão de 2° via de Certificado de Pessoa Jurídica/Termo Visado</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-2474" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children mfn-megamenu-cols-2"><a class="mfn-megamenu-title" href="#"><span>.</span></a>
+	<ul class="sub-menu mfn-megamenu mfn-megamenu-2">
+		<li id="menu-item-2438" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/pessoa-juridica/desconto-para-associacoes-pj/"><span>Desconto para Associações sem fins lucrativos</span></a></li>
+		<li id="menu-item-2434" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/pessoa-juridica/anuidade-pj/"><span>Anuidade</span></a></li>
+		<li id="menu-item-2437" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/pessoa-juridica/reativacao-de-registro-empresa/"><span>Reativação de Registro</span></a></li>
+		<li id="menu-item-10621" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/atualizacao-de-quadro-tecnico/"><span>Atualização de Quadro Técnico</span></a></li>
+		<li id="menu-item-18925" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/atualizacao-de-responsavel-tecnico/"><span>Atualização de Responsável Técnico</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-2427" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://crefsc.org.br/fiscalizacao/"><span>Fiscalização</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-2428" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/fiscalizacao/denuncias/"><span>Denúncias</span></a></li>
+	<li id="menu-item-21428" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/fiscalizacao-em-acao-orientacao-certa/"><span>Fiscalização em Ação | Orientação Certa</span></a></li>
+	<li id="menu-item-2429" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/fiscalizacao/orientacoes/"><span>Orientações</span></a></li>
+	<li id="menu-item-2430" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/fiscalizacao/procedimento/"><span>Procedimento</span></a></li>
+	<li id="menu-item-15976" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/fiscalizacao/defesa-recurso/"><span>Defesa | Recurso</span></a></li>
+</ul>
+</li>
+<li id="menu-item-2456" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children"><a href="#"><span>Legislação</span></a>
+<ul class="sub-menu mfn-megamenu mfn-megamenu-3">
+	<li id="menu-item-2475" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children mfn-megamenu-cols-3"><a class="mfn-megamenu-title" href="#"><span>.</span></a>
+	<ul class="sub-menu mfn-megamenu mfn-megamenu-3">
+		<li id="menu-item-4492" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/legislacao/estatuto/"><span>Estatuto</span></a></li>
+		<li id="menu-item-20606" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/regimento-interno/"><span>Regimento Interno</span></a></li>
+		<li id="menu-item-2452" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/legislacao/leis/"><span>Leis</span></a></li>
+		<li id="menu-item-2446" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/legislacao/decisoes-da-justica-federal-estadual/"><span>Decisões da Justiça Federal / Estadual</span></a></li>
+		<li id="menu-item-2447" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/legislacao/decretos/"><span>Decretos</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-2476" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children mfn-megamenu-cols-3"><a class="mfn-megamenu-title" href="#"><span>.</span></a>
+	<ul class="sub-menu mfn-megamenu mfn-megamenu-3">
+		<li id="menu-item-2448" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/legislacao/editais/"><span>Editais/Licitações</span></a></li>
+		<li id="menu-item-18627" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4567 current_page_item"><a href="https://crefsc.org.br/legislacao/concurso-publico/"><span>Concurso Público</span></a></li>
+		<li id="menu-item-2449" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/legislacao/eleicoes/"><span>Eleições</span></a></li>
+		<li id="menu-item-2453" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/legislacao/portarias/"><span>Portarias</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-2477" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children mfn-megamenu-cols-3"><a class="mfn-megamenu-title" href="#"><span>.</span></a>
+	<ul class="sub-menu mfn-megamenu mfn-megamenu-3">
+		<li id="menu-item-15394" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.crefsc.org.br/legislacao/instrucoes-normativas/"><span>Instruções Normativas</span></a></li>
+		<li id="menu-item-2455" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/legislacao/recomendacoes-pareceres-e-notas/"><span>Recomendações, Pareceres e Notas</span></a></li>
+		<li id="menu-item-2457" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/legislacao/resolucoes/"><span>Resoluções</span></a></li>
+		<li id="menu-item-17680" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/lgpd/"><span>LGPD</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-5086" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://crefsc.org.br/etica/"><span>Ética</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-5932" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/etica/"><span>Ética</span></a></li>
+	<li id="menu-item-18716" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.crefsc.org.br/wp-content/uploads/2016/02/formulario_de_denuncia_etica1.pdf"><span>Denúncia Ética</span></a></li>
+	<li id="menu-item-18718" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://online.crefsc.org.br/spw/consultacadastral/TelaLogin.aspx"><span>Emissão de Certidão de Ética</span></a></li>
+	<li id="menu-item-18717" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.crefsc.org.br/legislacao-etica/"><span>Legislação Ética</span></a></li>
+</ul>
+</li>
+<li id="menu-item-15182" class="hide-menu menu-item menu-item-type-post_type menu-item-object-page"><a href="https://crefsc.org.br/contato/"><span>Contato</span></a></li>
+</ul></nav><a class="responsive-menu-toggle " href="#"><i class="icon-menu"></i></a>					
+				</div>			
+				
+				<div class="secondary_menu_wrapper">
+					<!-- #secondary-menu -->
+									</div>
+				
+				<div class="banner_wrapper">
+									</div>
+				
+				<div class="search_wrapper">
+					<!-- #searchform -->
+					
+					
+<form method="get" id="searchform" action="https://crefsc.org.br/">
+						
+		
+	<i class="icon_search icon-search"></i>
+	<a href="#" class="icon_close"><i class="icon-cancel"></i></a>
+	
+	<input type="text" class="field" name="s" id="s" placeholder="Pesquisar" />			
+	<input type="submit" class="submit" value="" style="display:none;" />
+	
+</form>					
+				</div>				
+				
+			</div>
+			
+			<div class="top_bar_right"><div class="top_bar_right_wrapper"><a id="search_button" href="#"><i class="icon-search"></i></a></div></div>			
+		</div>
+	</div>
+</div>	
+							</header>
+				
+					
+		</div>
+		
+		<!-- mfn_hook_content_before --><!-- mfn_hook_content_before -->	
+<!-- #Content -->
+<div id="Content">
+	<div class="content_wrapper clearfix">
+
+		<!-- .sections_group -->
+		<div class="sections_group">
+		
+			<div class="entry-content" itemprop="mainContentOfPage">
+									<div class="section mcb-section full-width header-titulo " style="background-image:url('https://crefsc.org.br/wp-content/uploads/2016/05/comunicação.jpg'); padding-top:100px; padding-bottom:100px; margin-bottom:50px; background-color:#e5e5e5;  background-repeat:no-repeat; background-position:center top; background-attachment:; background-size:; -webkit-background-size:">
+						<div class="section_wrapper mcb-section-inner">
+							<div class="wrap mcb-wrap one  clearfix">
+								<div class="column mcb-column one column_fancy_heading ">
+									<div class="fancy_heading fancy_heading_icon"><h2 class="title">Concurso Público</h2></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					
+
+
+				<div class="section the_content has_content"><div class="section_wrapper"><div class="the_content_wrapper"><div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_tta-container" data-vc-action="collapse"><div class="vc_general vc_tta vc_tta-tabs vc_tta-color-grey vc_tta-style-classic vc_tta-shape-rounded vc_tta-spacing-1 vc_tta-tabs-position-top vc_tta-controls-align-left"><div class="vc_tta-tabs-container"><ul class="vc_tta-tabs-list"><li class="vc_tta-tab vc_active" data-vc-tab><a href="#1465391707431-aea10070-162d" data-vc-tabs data-vc-container=".vc_tta"><span class="vc_tta-title-text">Concurso Público</span></a></li><li class="vc_tta-tab" data-vc-tab><a href="#1465391707459-a69ea413-fafb" data-vc-tabs data-vc-container=".vc_tta"><span class="vc_tta-title-text">Seleção Interna</span></a></li><li class="vc_tta-tab" data-vc-tab><a href="#1644927310484-dff07f0a-3883" data-vc-tabs data-vc-container=".vc_tta"><span class="vc_tta-title-text">Processo Seletivo</span></a></li></ul></div><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel vc_active" id="1465391707431-aea10070-162d" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1465391707431-aea10070-162d" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Concurso Público</span></a></h4></div><div class="vc_tta-panel-body">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><a href="https://www.crefsc.org.br/wp-content/uploads/2022/11/CREF_3_concurso_publico_2022_edital_1_abertura.pdf"><strong>Concurso Público Nº 01/2022</strong></a></p>
+<p>O candidato poderá obter informações referentes ao concurso público na Central de Atendimento ao Candidato do INSTITUTO QUADRIX por meio do telefone 0800 878 0700, das 10 horas às 16 horas, ressalvado o disposto no subitem 19.8 do edital, por meio do endereço eletrônico contato@quadrix.org.br ou via Internet, no endereço eletrônico www.quadrix.org.br.</p>
+<p><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2023/06/Aviso-de-Homologacao-de-Cocurso-Publico-SITE-CREF.pdf" target="_blank" rel="noopener">Homologação</a></strong></p>
+<p><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2023/06/Portaria_017_2023_1_Convocacao_Concurso_2022_SITE.pdf" target="_blank" rel="noopener">Portaria 017-2023</a></strong><br />
+Dispõe sobre Convocação Concurso Público n°001/2022 do CREF3/SC.</p>
+<p><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2023/07/Portaria_018_2023_2_Convocacao_Concurso_SITE.pdf" target="_blank" rel="noopener">Portaria 018-2023</a></strong><br />
+Dispõe sobre Convocação Concurso Público n°001/2022 do CREF3/SC.</p>
+<p><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2023/07/Portaria_020_2023_1_Nomeacao_SITE.pdf" target="_blank" rel="noopener">Portaria 020-2023</a></strong><br />
+Dispõe sobre a nomeação de aprovados no Concurso Público n° 001/2022 do CREF3/SC.</p>
+<p><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2023/07/Portaria_029_2023_2_Nomeacao_SITE.pdf" target="_blank" rel="noopener">Portaria 029-2023</a></strong><br />
+Dispõe sobre a nomeação de aprovados no Concurso Público n° 001/2022 do CREF3/SC.</p>
+<p><strong><a href="https://crefsc.org.br/wp-content/uploads/2023/10/Portaria_030_2023_3_Convocacao_Concurso_SITE.pdf" target="_blank" rel="noopener">Portaria 030-2023</a></strong><br />
+Dispõe sobre exoneração, a pedido, e convocação de aprovado no Concurso Público n° 001/2022 do CREF3/SC.</p>
+<p><strong><a href="https://crefsc.org.br/wp-content/uploads/2023/10/Portaria_033_2023_3_Nomeacao_SITE.pdf" target="_blank" rel="noopener">Portaria 033-2023</a></strong><br />
+Dispõe sobre a nomeação de aprovados no Concurso Público n° 001/2022 do CREF3/SC.</p>
+<p><a href="https://crefsc.org.br/wp-content/uploads/2024/01/Edital_de_Convocacao_001_2024_4_Convocacao_Concurso_SITE.pdf"><strong>Edital de Convocação nº 001/2024/CREF3/SC</strong></a><br />
+Dispõe sobre Convocação Concurso Público n° 001/2022 do CREF3/SC.</p>
+<hr />
+<p><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/06/edital.cref_.pdf" rel="">Concurso Público Nº 01/2016</a></strong></p>
+<p><a href="https://www.crefsc.org.br/wp-content/uploads/2016/06/convocações-concurso-001.2016_atualizada-1.pdf" target="_blank" rel="noopener"><strong>Convocações Concurso 001.2016</strong></a></p>
+<p><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2022/04/Portaria_012_2017_Prorrogacao_concurso_publico.pdf">Portaria 012/2017 &#8211; Prorrogação Concurso Público</a><br />
+<a href="https://www.crefsc.org.br/wp-content/uploads/2022/04/Portaria_014_2017_Revogacao_portaria_012_2017.pdf">Portaria 014/2017 &#8211; Revogação Portaria 012/2017</a><br />
+<a href="https://www.crefsc.org.br/wp-content/uploads/2022/04/Portaria_017_2018_Prorrogacao_concurso_publico.pdf">Portaria 017/2018 &#8211; Prorrogação Concurso Público</a><br />
+</strong><strong>Homologação</strong></p>
+<p>Dúvidas podem ser esclarecidas através do e-mail: adm.fin@crefsc.org.br.</p>
+<p><strong>Classificação final</strong></p>
+<p><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/10/Administrador.pdf" rel="">Administrador</a> </strong><br />
+<strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/10/Advogado.pdf" rel="">Advogado</a> </strong><br />
+<strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/10/Agende-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-Blumenau.pdf" rel="">Agente de Orientação e Fiscalização Blumenau</a> </strong><br />
+<strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/10/Agende-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-Ca%C3%A7ador.pdf" rel="">Agente de Orientação e Fiscalização Caçador</a> </strong><br />
+<strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/10/Agende-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-Chapec%C3%B3.pdf" rel="">Agente de Orientação e Fiscalização Chapecó</a></strong><br />
+<strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/10/Agende-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-Criciuma.pdf" rel="">Agente de Orientação e Fiscalização Criciúma</a> </strong><br />
+<strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/10/Agende-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-Florianopolis.pdf" rel="">Agente de Orientação e Fiscalização Florianópolis</a> </strong><br />
+<strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/10/Agende-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-Joinville.pdf" rel="">Agente de Orientação e Fiscalização Joinville</a> </strong><br />
+<strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/10/Agende-de-Orienta%C3%A7%C3%A3o-e-Fiscaliza%C3%A7%C3%A3o-Lages.pdf" rel="">Agente de Orientação e Fiscalização Lages</a> </strong><br />
+<strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/10/Assistente-Administrativo-CREF-M%C3%B3vel.pdf" rel="">Assistente Administrativo CREF Móvel</a> </strong><br />
+<strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/10/Assistente-Administrativo.pdf" rel="">Assistente Administrativo</a> </strong><br />
+<strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/10/Assistente-Jur%C3%ADdico.pdf" rel="">Assistente Jurídico</a> </strong><br />
+<strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/10/Contador.pdf" rel="">Contador</a> </strong><br />
+<strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/10/Jornalista.pdf" rel="">Jornalista</a> </strong><br />
+<strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/10/T%C3%A9cnico-em-N%C3%ADvel-Superior.pdf" rel="">Técnico em Nível Superior<br />
+</a><a href="https://www.crefsc.org.br/wp-content/uploads/2016/10/Auxiliar-de-Manuten%C3%A7%C3%A3o-e-Limpeza.pdf" rel="">Auxiliar de Manutenção e Limpeza</a></strong></p>
+<p><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/06/an1.cref_.pdf" rel="">Anexo 1<br />
+</a></strong><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/06/an2.cref_.pdf" rel="">Anexo 2<br />
+</a></strong><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/06/an3.cref_.pdf" rel="">Anexo 3<br />
+</a></strong><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/07/anexo-4.doc" rel="">Anexo 4</a><br />
+</strong><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/07/anexo-5.doc" rel="">Anexo 5<br />
+</a></strong><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/07/anexo-6.doc" rel="">Anexo 6</a></strong></p>
+<p>&nbsp;</p>
+<hr />
+<p><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/04/12.06.13-edital_de_abertura.pdf" rel="">Seleção Pública Nº 01/2013</a></strong></p>
+<p><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/06/Convocações-2013-1.pdf" target="_blank" rel="noopener">Convocações</a></strong></p>
+<p><a href="https://www.crefsc.org.br/wp-content/uploads/2016/04/homologac_o_concurso.pdf" rel="">08.10.2013-Homologação da seleção pública</a><a href="http://www.crefsc.com.br/downloads/04.10.13-resultado_final-300-administrador.pdf" target="_blank" rel="noopener"><br />
+</a><a href="https://www.crefsc.org.br/wp-content/uploads/2016/04/04.10.13-resultado_final-300-administrador.pdf" rel="">04.10.13-Resultado Final-300-Administrador</a><br />
+<a href="https://www.crefsc.org.br/wp-content/uploads/2016/04/2014.04.10.13-resultado_final-310-advogado.pdf" rel="">04.10.13-Resultado Final-310-Advogado</a><br />
+<a href="https://www.crefsc.org.br/wp-content/uploads/2016/04/2014.04.10.13-resultado_final-320-agente_de_orientac_o_e_fiscalizac_o.pdf" rel="">04.10.13-Resultado Final-320-Agente de Orientação e Fiscalização</a><br />
+<a href="https://www.crefsc.org.br/wp-content/uploads/2016/04/2014.04.10.13-resultado_final-330-agente_de_orientac_o_e_fiscalizac_o-flochapec_.pdf" rel="">04.10.13-Resultado Final-330-Agente de Orientação e Fiscalização-Flo/Chapecó</a><br />
+<a href="https://www.crefsc.org.br/wp-content/uploads/2016/04/04.10.13-resultado_final-340-jornalista.pdf" rel="">04.10.13-Resultado Final-340-Jornalista</a><br />
+<a href="https://www.crefsc.org.br/wp-content/uploads/2016/04/2014.04.10.13-resultado_final-350-t_cnico_de_n_vel_superior.pdf" rel="">04.10.13-Resultado Final-350-Técnico de Nível Superior</a><br />
+<a href="https://www.crefsc.org.br/wp-content/uploads/2016/04/27.09.13-comunicado.pdf" rel="">27.09.13-Comunicado</a><br />
+<a href="https://www.crefsc.org.br/wp-content/uploads/2016/04/13.09.13-resultado_preliminar_prova_de_t_tulos.pdf" rel="">13.09.13-Resultado Preliminar Prova de Títulos</a><br />
+<a href="https://www.crefsc.org.br/wp-content/uploads/2016/04/cref3_formulario_de_recursos_prova_de_titulos.doc" rel="">13.09.13-Formulário de Recursos Prova de Títulos</a><br />
+<a href="https://www.crefsc.org.br/wp-content/uploads/2016/04/cref3_formulario_de_entrega_prova_de_titulos.doc" rel="">26.08.13-Formulário de Entrega de Prova de Títulos</a><br />
+<a href="https://www.crefsc.org.br/wp-content/uploads/2016/04/26.08.13-edital_n_4_convocac_o_prova_de_t_tulos.pdf" rel="">26.08.13-Edital nº 4 – Convocação Prova de Títulos</a></p>
+<hr />
+<p><a href="http://www.crefsc.com.br/downloads/26.08.13-resultado_final-100-auxiliar_administrativo.pdf" target="_blank" rel="noopener">26.08.13-Resultado Final-100-Auxiliar Administrativo</a><br />
+<a href="http://www.crefsc.com.br/downloads/assistente_administrativo.pdf" target="_blank" rel="noopener">26.08.13-Resultado Final-200-Assistente Administrativo</a><br />
+<a href="http://www.crefsc.com.br/downloads/26.08.13-resultado_definitivo-300-administrador.pdf" target="_blank" rel="noopener">26.08.13-Resultado Definitivo-300-Administrador</a><br />
+<a href="http://www.crefsc.com.br/downloads/26.08.13-resultado_definitivo-310-advogado_esse.pdf" target="_blank" rel="noopener">26.08.13-Resultado Definitivo-310-Advogado</a><br />
+<a href="http://www.crefsc.com.br/downloads/26.08.13-resultado_definitivo-320-agente_de_orientac_o_e_fiscalizac_o_esse.pdf" target="_blank" rel="noopener">26.08.13-Resultado Definitivo-320-Agente de Orientação e Fiscalização</a><br />
+<a href="http://www.crefsc.com.br/downloads/26.08.13-resultado_definitivo-330-agente_de_orientac_o_e_fiscalizac_o-flochapec_.pdf" target="_blank" rel="noopener">26.08.13-Resultado Definitivo-330-Agente de Orientação e Fiscalização-Flo/Chapecó</a><br />
+<a href="http://www.crefsc.com.br/downloads/26.08.13-resultado_definitivo-340-jornalista.pdf" target="_blank" rel="noopener">26.08.13-Resultado Definitivo-340-Jornalista</a><br />
+<a href="http://www.crefsc.com.br/downloads/26.08.13-resultado_definitivo-350-t_cnico_de_n_vel_superior.pdf" target="_blank" rel="noopener">26.08.13-Resultado Definitivo-350-Técnico de Nível Superior</a><br />
+<a href="http://www.crefsc.com.br/downloads/12.08.13-resultado_preliminar-100-auxiliar_administrativo.pdf" target="_blank" rel="noopener">12.08.13-Resultado Preliminar-100-Auxiliar Administrativo</a><br />
+<a href="http://www.crefsc.com.br/downloads/12.08.13-resultado_preliminar-200-assistente_administrativo.pdf" target="_blank" rel="noopener">12.08.13-Resultado Preliminar-200-Assistente Administrativo</a><br />
+<a href="http://www.crefsc.com.br/downloads/12.08.13-resultado_preliminar-300-administrador.pdf" target="_blank" rel="noopener">12.08.13-Resultado Preliminar-300-Administrador</a><br />
+<a href="http://www.crefsc.com.br/downloads/12.08.13-resultado_preliminar-310-advogado.pdf" target="_blank" rel="noopener">12.08.13-Resultado Preliminar-310-Advogado</a><br />
+<a href="http://www.crefsc.com.br/downloads/12.08.13-resultado_preliminar-320-agente_de_orientac_o_e_fiscalizac_o.pdf" target="_blank" rel="noopener">12.08.13-Resultado Preliminar-320-Agente de Orientação e Fiscalização</a><br />
+<a href="http://www.crefsc.com.br/downloads/12.08.13-resultado_preliminar-330-agente_de_orientac_o_e_fiscalizac_o-flochapec_.pdf" target="_blank" rel="noopener">12.08.13-Resultado Preliminar-330-Agente de Orientação e Fiscalização-Flo/Chapecó</a><br />
+<a href="http://www.crefsc.com.br/downloads/12.08.13-resultado_preliminar-340-jornalista.pdf" target="_blank" rel="noopener">12.08.13-Resultado Preliminar-340-Jornalista</a><br />
+<a href="http://www.crefsc.com.br/downloads/12.08.13-resultado_preliminar-350-t_cnico_de_n_vel_superior.pdf" target="_blank" rel="noopener">12.08.13-Resultado Preliminar-350-Técnico de Nível Superior</a><br />
+<a href="http://www.crefsc.com.br/downloads/cref3_formulario_recursos_resultado_preliminar_objetiva.doc" target="_blank" rel="noopener">12.08.13-Formulário de Recursos Resultado Preliminar Objetiva</a><br />
+<a href="http://www.crefsc.com.br/downloads/12.08.13-justificativa_de_alterac_es_do_gabarito_preliminar.pdf" target="_blank" rel="noopener">12.08.13-Justificativa de Alterações do Gabarito Preliminar</a><br />
+<a href="http://www.crefsc.com.br/downloads/12.08.13-gabarito_definitivo.pdf" target="_blank" rel="noopener">12.08.13-Gabarito Definitivo</a><br />
+<a href="http://www.crefsc.com.br/downloads/29.07.13-gabarito_preliminar.pdf" target="_blank" rel="noopener">29.07.13-Gabarito Preliminar</a><br />
+<a href="http://www.crefsc.com.br/downloads/cref3_formulario_recursos_gabarito_preliminar.doc" target="_blank" rel="noopener">29.07.13-Formulário de Recursos Gabarito Preliminar</a><br />
+<a href="https://concursos.quadrix.org.br/default.aspx" target="_blank" rel="noopener">29.07.13-Consulta ao Caderno de Provas de 29/07 às 15h até 23h59 do dia 31/07</a><br />
+<a href="https://concursos.quadrix.org.br/default.aspx" target="_blank" rel="noopener">22.07.13-Imprima aqui o Comprovante de Inscrição e Locais de Prova</a><br />
+<a href="http://www.crefsc.com.br/downloads/22.07.13-edital_de_local_de_prova.pdf" target="_blank" rel="noopener">22.07.13-Edital de Local de Prova</a><br />
+<a href="http://www.crefsc.com.br/downloads/22.07.13-candidatos_homologados_como_portador_de_defici_ncia.pdf" target="_blank" rel="noopener">22.07.13-Candidatos homologados como Portador de Deficiência</a><br />
+<a href="http://www.crefsc.com.br/downloads/22.07.13-quantidade_de_inscric_es_homologadas.pdf" target="_blank" rel="noopener">22.07.13-Quantidade de Inscrições Homologadas</a><br />
+<a href="http://www.crefsc.com.br/downloads/22.07.13-solicitac_es_de_atendimentos_especiais.pdf" target="_blank" rel="noopener">22.07.13-Solicitações de Atendimentos Especiais</a><br />
+<a href="https://concursos.quadrix.org.br/default.aspx" target="_blank" rel="noopener">12.07.13-Imprima aqui a 2a via do boleto bancário com vecto 12/07</a><br />
+<a href="http://www.crefsc.com.br/downloads/02.07.13-edital_de_retificac_o.pdf" target="_blank" rel="noopener">02.07.13-Edital de Retificação</a><br />
+<a href="http://www.crefsc.com.br/downloads/01.07.13-resultado_preliminar_decreto_n_6.135-deferidas.pdf" target="_blank" rel="noopener">01.07.13-Resultado Preliminar Decreto nº 6.135-Deferidas</a><br />
+<a href="http://www.crefsc.com.br/downloads/01.07.13-resultado_preliminar_decreto_n_6.135-indeferidas.pdf" target="_blank" rel="noopener">01.07.13-Resultado Preliminar Decreto nº 6.135-Indeferidas</a><br />
+<a href="https://concursos.quadrix.org.br/default.aspx" target="_blank" rel="noopener">11.06.13-Faça aqui a sua inscrição a partir das 10h do dia 12/06 a 11/07/13 às 23h39min</a><br />
+<a href="http://www.crefsc.com.br/downloads/12.06.13-edital_de_abertura.pdf" target="_blank" rel="noopener">12.06.13-Edital de Abertura</a><br />
+<a href="http://www.crefsc.com.br/downloads/cref3_cronograma.pdf" target="_blank" rel="noopener">11.06.13-Cronograma</a></p>
+<hr />
+<p>&nbsp;</p>
+<p><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/06/EDITAL-CREF3SC-001.2009.pdf" rel="">Concurso nº 1/2009</a></strong></p>
+<p><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/06/Convocações-2009.pdf" rel="">Convocações 2009</a></strong></p>
+<hr />
+<p>&nbsp;</p>
+<p><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/06/Edital-Concurso-001.2005.pdf" rel="">Concurso nº 1/2005</a></strong></p>
+<p><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/06/Convocações-2005.pdf" rel="">Convocações 2005</a></strong></p>
+<p><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/06/Resultado-final-_-001.2005.pdf" rel="">Resultado final &#8211; 001.2005</a></strong></p>
+<hr />
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>.</p>
+
+		</div>
+	</div>
+</div></div><div class="vc_tta-panel" id="1465391707459-a69ea413-fafb" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1465391707459-a69ea413-fafb" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Seleção Interna</span></a></h4></div><div class="vc_tta-panel-body">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/06/Seleção-Interna-002.2018.pdf" rel="">Seleção Interna 002/2018 CREF3/SC &#8211; Chefe do setor de eventos</a><br />
+</strong></p>
+<p><a href="https://www.crefsc.org.br/wp-content/uploads/2016/06/Lista-das-inscrições-edital-de-seleção-interna-002.2018.pdf" rel="">Lista das inscrições edital de seleção interna 002.2018</a></p>
+<p><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/06/Portaria-003-2018-Nomeação-chefe-de-setor-de-eventos-Robison-1.pdf" rel="">Portaria 003-2018 &#8211; Nomeação chefe de setor de eventos</a></strong></p>
+<hr />
+<p>&nbsp;</p>
+<p><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/06/Seleção-Interna-001.2018.pdf" rel="">Seleção Interna 001/2018 CREF3/SC &#8211; Chefe do setor administrativo financeiro</a></strong></p>
+<p><a href="https://www.crefsc.org.br/wp-content/uploads/2016/06/Lista-das-inscrições-edital-de-seleção-interna-001.2018.pdf" rel="">Lista das inscrições edital de seleção interna 001.2018</a></p>
+<p><a href="https://www.crefsc.org.br/wp-content/uploads/2016/06/Portaria-001-2018-Alteração-de-funções.pdf" rel=""><strong>Portaria 001/2018 &#8211; Alteração de funções</strong></a><strong> &#8211; Chefia de setor</strong></p>
+<hr />
+<p><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/06/Seleção-Interna-chefe-de-setor-cadastro.pdf" rel="">Seleção interna 003/2016 CREF3/SC &#8211; Chefe do setor Cadastral/Protocolo/Atendimento</a></strong></p>
+<p><a href="https://www.crefsc.org.br/wp-content/uploads/2016/06/Lista-das-inscrições-edital-de-seleção-interna-003.2016.pdf" rel="">Lista das inscrições edital de seleção interna 003.2016</a></p>
+<p><a href="https://www.crefsc.org.br/wp-content/uploads/2016/06/Portaria-012-2016-Designação-chefe-de-setor-de-Cadastro-Bruno-integra.pdf" rel="">Portaria 012/2016/CREF3/SC &#8211; designação de função &#8211; Chefia de Setor</a></p>
+<hr />
+<p><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2016/06/Seleção-Interna-chefe-de-setor-fiscalização.pdf" rel="">Seleção interna 002/2016 CREF3/SC &#8211; Chefe do setor da Fiscalização</a></strong></p>
+<p><a href="https://www.crefsc.org.br/wp-content/uploads/2016/06/Lista-das-inscrições-edital-de-seleção-interna-chefe-de-setor-de-fiscalização-002.2016.pdf" rel="">Lista das inscrições edital de seleção interna 002/2016</a></p>
+<p><a href="https://www.crefsc.org.br/wp-content/uploads/2016/06/Portaria-011-2016-Designação-chefe-de-setor-de-Fiscalização-Leandra-integra.pdf" rel="">Portaria 011/2016/CREF3/SC &#8211; designação de função &#8211; Chefia de Setor</a></p>
+<hr />
+<p><strong><span style="line-height: 1.5;"><a href="https://www.crefsc.org.br/wp-content/uploads/2016/06/Seleção-Interna.pdf" rel="">Seleção interna 001/2016 CREF3/SC &#8211; Chefia de Setor</a></span></strong></p>
+<p><span style="line-height: 1.5;"><a href="https://www.crefsc.org.br/wp-content/uploads/2016/06/Lista-das-inscrições-edital-de-seleção-interna-0012016.pdf" rel="">Lista das inscrições edital de seleção interna 001/2016</a> </span><strong><br />
+</strong></p>
+<p><a href="https://www.crefsc.org.br/wp-content/uploads/2016/06/Portaria-0032016CREF3SC-designação-de-função-Chefia-de-Setor.pdf" rel="">Portaria 003/2016/CREF3/SC &#8211; designação de função &#8211; Chefia de Setor</a></p>
+
+		</div>
+	</div>
+</div></div><div class="vc_tta-panel" id="1644927310484-dff07f0a-3883" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1644927310484-dff07f0a-3883" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Processo Seletivo</span></a></h4></div><div class="vc_tta-panel-body">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2022/02/edital.pdf" target="_blank" rel="noopener">Edital de Processo Seletivo Simplificado nº 001/2022</a></strong><br />
+Contratação temporária para o cargo de Advogado e de Analista Jurídico</p>
+<p><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2022/03/ESCLARECIMENTOS_assinado.pdf" target="_blank" rel="noopener">Esclarecimentos</a></strong></p>
+<p><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2022/03/Resultado-preliminar-assinado.pdf">Resultado preliminar</a></strong></p>
+<p><a href="https://www.crefsc.org.br/wp-content/uploads/2022/03/1o-RESULTADO-FINAL-DOS-RECURSOS-assinado.pdf"><strong>Resultado Final dos Recursos</strong></a></p>
+<p><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2022/03/2o-Resultado-FINAL-Processo-Seletivo-2022-Advogado-e-Analista-assinado.pdf">Resultado Final Processo Seletivo 2022 &#8211; Advogado e Analista</a></strong></p>
+<p><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2022/03/Esclarecimento_ASSINADO.pdf" target="_blank" rel="noopener">Esclarecimento Convocação</a> </strong></p>
+<p><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2022/03/Portaria_008_2022_Vacancia_cargo_Advogado_Luiza_Helena.pdf" target="_blank" rel="noopener">Portaria 008-2022</a></strong><br />
+Dispõe sobre a vacância temporária do espaço ocupacional do Quadro de Pessoal do CREF3/SC de Advogado ocupado pela Senhora Luíza Helena Vieira Virgílio, em razão de seu afastamento temporário.</p>
+<p><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2022/04/Portaria_010_2022_Nomeacao_Jessica_advogada_contrato_temporario.pdf" target="_blank" rel="noopener">Portaria 010-2022</a></strong><br />
+Dispõe sobre a nomeação ao Cargo de Advogado temporário do CREF3/SC.</p>
+<p><strong><a href="https://www.crefsc.org.br/wp-content/uploads/2022/04/Portaria_011_2022_Nomeacao_Giselle_advogada_contrato_temporario.pdf">Portaria 011-2022</a></strong></p>
+<p>Dispõe sobre a nomeação ao Cargo de Advogado temporário do CREF3/SC.</p>
+
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div></div></div>
+</div></div></div></div>			</div>
+			
+				
+		</div>
+		
+		<!-- .four-columns - sidebar -->
+		
+	</div>
+</div>
+
+
+<!-- mfn_hook_content_after --><!-- mfn_hook_content_after -->
+<!-- #Footer -->    
+<footer id="Footer" class="clearfix">
+  
+    
+  <div class="widgets_wrapper" style=""><div class="container"><div class="column one-fourth"><aside id="text-14" class="widget widget_text"><h4>Sobre o CREF3/SC</h4>			<div class="textwidget"><p>O Conselho Regional de Educação Física de Santa Catarina é uma autarquia federal, com o objetivo de defender a sociedade, zelando pela qualidade dos serviços prestados nas atividades próprias dos profissionais de Educação Física.
+</p>
+<p><center><img src="https://www.crefsc.org.br/wp-content/uploads/2018/04/Logo-20-anos.png" width="150" para 150px</center></p>
+</div>
+		</aside></div><div class="column one-fourth"><aside id="text-13" class="widget widget_text"><h4>Endereço</h4>			<div class="textwidget"><p>Rua General Eurico Gaspar Dutra, 668
+<br>
+Bairro Estreito - Florianópolis/SC
+<br>CEP: 88075-100
+<br><br>
+Email: <a href="mailto:crefsc@crefsc.org.br">crefsc@crefsc.org.br</a>
+</p>
+<h4>Horário de funcionamento: </h4>
+<p>Segunda a sexta-feira, das 9h às 17h 
+</p></div>
+		</aside></div><div class="column one-fourth"><aside id="text-12" class="widget widget_text"><h4>Telefones &#8211; contato via whatsapp</h4>			<div class="textwidget"><p>
+<b>Fale com o CREF3/SC via whatsapp, envie mensagem de texto para </b> 
+<br>
+<b>(48) 33487007</b> 
+</p></div>
+		</aside></div><div class="column one-fourth"><aside id="text-18" class="widget widget_text"><h4>Siga no Facebook e Instagram</h4>			<div class="textwidget"><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="fb-page" data-href="https://www.facebook.com/cref3sc" data-tabs="timeline" data-height="70" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/cref3sc"><a href="https://www.facebook.com/cref3sc">Conselho Regional de Educação Física de Santa Catarina</a></blockquote></div></div>
+</div>
+		</aside></div></div></div>  
+  
+    
+    
+    <div class="footer_copy">
+     
+      <br> 
+      <div class="container mapa-site" style="text-align:left">
+        <div class="column one-fifth">
+          <h6>Institucional</h6>
+          <ul>
+            <li><a href="https://www.crefsc.org.br/institucional/sobre-o-cref3sc/">Sobre o CREF3/SC</a></li>
+            <li><a href="https://www.crefsc.org.br/institucional/quem-e-quem/">Quem é Quem</a></li>
+            <li><a href="https://www.crefsc.org.br/institucional/comissoes/">Comissões</a></li>
+            <li><a href="https://www.crefsc.org.br/institucional/faq/">Perguntas Frequentes</a></li>
+            <li><a href="https://www.crefsc.org.br/medalha-do-merito/">Medalha do Mérito</a></li>
+            <li><a href="https://www.crefsc.org.br/eventos/">Calendário de Eventos</a></li>
+            <li><a href="https://online.crefsc.org.br/spw/cursos/Entrada.aspx">Cursos</a></li>
+            <li><a href="https://www.crefsc.org.br/cref-itinerante/">CREF Itinerante</a></li>
+            <li><a href="https://www.crefsc.org.br/noticias/">Notícias</a></li>
+            <li><a href="https://www.crefsc.org.br/publicacoes/">Publicações</a></li>
+            <li><a href="https://www.crefsc.org.br/jornais/">Jornais</a></li>
+            <li><a href="https://www.crefsc.org.br/material-grafico/">Material Gráfico</a></li>
+            <li><a href="https://www.crefsc.org.br/galeria-de-fotos/">Galeria de Fotos</a></li>
+            <li><a href="https://www.crefsc.org.br/universidades/">Universidades</a></li>
+            <li><a href="https://www.crefsc.org.br/federacoes-esportivas/">Federações Esportivas</a></li>
+          </ul>
+        </div> 
+      <div class="column one-fifth">
+          <h6>Pessoa Física</h6>
+          <ul>
+            <li><a href="https://www.crefsc.org.br/pessoa-fisica/registro-novo-profissional/">Registro Novo</a></li>
+            <li><a href="https://www.crefsc.org.br/pessoa-fisica/registro-secundario-pf/">Registro Secundário</a></li>
+            <li><a href="https://www.crefsc.org.br/pessoa-fisica/registro-de-especialidade/">Registro de Especialidade</a></li>
+            <li><a href="https://www.crefsc.org.br/transferencia-de-registro/">Transferência de Registro</a></li>
+            <li><a href="https://www.crefsc.org.br/pessoa-fisica/anuidade-pf/">Anuidade Profissional</a></li>
+            <li><a href="https://www.crefsc.org.br/pessoa-fisica/baixa-e-cancelamento-de-registro-profissional-pf/">Baixa de Registro Profissional</a></li>
+            <li><a href="https://www.crefsc.org.br/pessoa-fisica/renovacao-de-cip-pf/">Renovação de Cédula</a></li>
+            <li><a href="https://www.crefsc.org.br/pessoa-fisica/alteracao-de-categoria/">Alteração de Categoria</a></li>
+            <li><a href="https://www.crefsc.org.br/segunda-via-de-cip/">Segunda Via de Cédula</a></li>
+            <li><a href="https://www.crefsc.org.br/pessoa-fisica/autonomos-pf/">Autônomos</a></li>
+            <li><a href="https://www.crefsc.org.br/pessoa-fisica/requerimento-permanencia-de-180-dias-pf/">Permanência 180 dias</a></li>
+            <li><a href="https://www.crefsc.org.br/pessoa-fisica/isencao-por-idade-pf/">Isenção por Idade</a></li>
+            <li><a href="https://online.crefsc.org.br/spw/consultacadastral/Principal.aspx">Alteração de Endereço</a></li>
+            <li><a href="https://www.crefsc.org.br/pessoa-fisica/entrega-de-cedulas-na-formatura-pf/">Cédulas na Formatura</a></li>
+			<li><a href="https://www.crefsc.org.br/baixa-de-responsabilidade-tecnica/">Baixa de Responsabilidade Técnica</a></li> 
+          </ul>
+        </div> 
+   <div class="column one-fifth">
+          <h6>Pessoa Jurídica</h6>
+          <ul>
+            <li><a href="https://www.crefsc.org.br/pessoa-juridica/registro-novo-pj/">Registro Novo</a></li>
+            <li><a href="https://www.crefsc.org.br/registro-mei/">Registro MEI</a></li>
+            <li><a href="https://www.crefsc.org.br/pessoa-juridica/autonomos-pj/">Autônomos</a></li>
+            <li><a href="https://www.crefsc.org.br/pessoa-juridica/baixacancelamento-de-registro-pj/"> Baixa/Cancelamento de Registro</a></li>
+            <li><a href="https://www.crefsc.org.br/pessoa-juridica/emissao-de-2-via-de-certificado-de-pessoa-juridica/"> 2ª Via de Certificado de PJ</a></li>
+            <li><a href="https://www.crefsc.org.br/pessoa-juridica/desconto-para-associacoes-pj/">Desconto para Associações</a></li>
+            <li><a href="https://www.crefsc.org.br/pessoa-juridica/anuidade-pj/">Anuidade PJ</a></li>
+            <li><a href="https://www.crefsc.org.br/pessoa-juridica/certificado-de-pj/">Revigoramento de Registro</a></li>
+            <li><a href="https://www.crefsc.org.br/atualizacao-de-responsavel-tecnico/">Atualização de Responsável Técnico</a></li>
+			<li><a href="https://www.crefsc.org.br/atualizacao-de-quadro-tecnico/">Atualização de Quadro Técnico</a></li>
+          </ul>
+        </div> 
+   <div class="column one-fifth">
+          <h6>Fiscalização</h6>
+          <ul>
+            <li><a href="https://www.crefsc.org.br/fiscalizacao/denuncias/">Denúncias</a></li>
+            <li><a href="https://www.crefsc.org.br/fiscalizacao/orientacoes/">Orientações</a></li>
+            <li><a href="https://www.crefsc.org.br/fiscalizacao/procedimento/">Procedimento</a></li>
+            <li><a href="https://www.crefsc.org.br/fiscalizacao/defesa-recurso/"> Defesa|Recurso</a></li>
+          </ul>
+     <br>
+     <h6>Ética</h6>
+          <ul>
+            <li><a href="https://www.crefsc.org.br/etica/">Comissão de Ética</a></li>
+            <li><a href="https://www.crefsc.org.br/membros-etica-profissional/">Membros Comissão de Ética</a></li>
+            <li><a href="https://www.crefsc.org.br/defensor-dativo/">Cadastro Defensor Dativo</a></li>
+          </ul>
+        </div> 
+   <div class="column one-fifth">
+          <h6>Legislação</h6>
+          <ul>
+            <li><a href="https://www.crefsc.org.br/legislacao/estatuto/">Editais</a></li>
+            <li><a href="https://www.crefsc.org.br/legislacao/leis/">Leis</a></li>
+            <li><a href="https://www.crefsc.org.br/legislacao/decisoes-da-justica-federal-estadual/">Decisões</a></li>
+            <li><a href="https://www.crefsc.org.br/legislacao/decretos/"> Decretos</a></li>
+            <li><a href="https://www.crefsc.org.br/legislacao/concurso-publico/"> Concurso Público</a></li>
+            <li><a href="https://www.crefsc.org.br/legislacao/editais/">Editais/Licitações</a></li>
+            <li><a href="https://www.crefsc.org.br/legislacao/eleicoes/">Eleições</a></li>
+            <li><a href="https://www.crefsc.org.br/legislacao/portarias/">Portarias</a></li>
+            <li><a href="https://www.crefsc.org.br/legislacao/recomendacoes-pareceres-e-notas/">Recomendações, Pareceres e Notas</a></li>
+            <li><a href="https://www.crefsc.org.br/legislacao/resolucoes/">Resoluções</a></li>
+          </ul>
+        </div> 
+      </div>
+      
+      <div class="container">
+        <div class="column one">
+
+          <a id="back_to_top" class="button button_left button_js sticky scroll" href=""><span class="button_icon"><i class="icon-up-open-big"></i></span></a>
+          
+          <!-- Copyrights -->
+          <div class="copyright">
+            © 2017 CREF3/SC - Todos os direitos reservados | Por <a href="http://incuca.com.br" target="_blank">InCuca</a>          </div>
+          
+          <ul class="social"><li class="facebook"><a  href="https://www.facebook.com/CREF3SC/" title="Facebook"><i class="icon-facebook"></i></a></li><li class="youtube"><a  href="youtube.com/cref3sc" title="YouTube"><i class="icon-play"></i></a></li><li class="instagram"><a  href="https://www.instagram.com/cref3sc" title="Instagram"><i class="icon-instagram"></i></a></li><li class="rss"><a  href="https://crefsc.org.br/feed/" title="RSS"><i class="icon-rss"></i></a></li></ul>              
+        </div>
+      </div>
+    </div>
+  
+    
+  
+</footer>
+
+</div><!-- #Wrapper -->
+
+
+<!-- mfn_hook_bottom --><!-- mfn_hook_bottom -->  
+<!-- wp_footer() -->
+
+		<script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = false;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+		<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">Nós usamos cookies para melhorar sua experiência de navegação no portal. Ao utilizar o site, você concorda com a <b><a href="https://www.crefsc.org.br/wp-content/uploads/2021/10/Politica_de_Privacidade_CREF_aprovada_.pdf" target="_blank">Política de Privacidade</a> </b>. Se você concorda, clique em ACEITO.</div><div class="cli-bar-btn_container"><a role='button' class="medium cli-plugin-button cli-plugin-main-button cli_settings_button" style="margin:0px 5px 0px 0px">Configuração de Cookies</a><a id="wt-cli-accept-all-btn" role='button' data-cli_action="accept_all" class="wt-cli-element small cli-plugin-button wt-cli-accept-all-btn cookie_action_close_header cli_action_button">ACEITO</a></div></div></span></div><div id="cookie-law-info-again" data-nosnippet="true"><span id="cookie_hdr_showagain">Manage consent</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+  <div class="cli-modal-dialog" role="document">
+	<div class="cli-modal-content cli-bar-popup">
+		  <button type="button" class="cli-modal-close" id="cliModalClose">
+			<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
+			<span class="wt-cli-sr-only">Fechar</span>
+		  </button>
+		  <div class="cli-modal-body">
+			<div class="cli-container-fluid cli-tab-container">
+	<div class="cli-row">
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+			<div class="cli-privacy-overview">
+				<h4>Visão geral de privacidade</h4>				<div class="cli-privacy-content">
+					<div class="cli-privacy-content-text">Este site usa cookies para melhorar a sua experiência de navegação no site. Destes, os cookies que são categorizados como necessários são armazenados no seu navegador, pois são essenciais para o funcionamento das funcionalidades básicas do site. Também usamos cookies de terceiros que nos ajudam a analisar e entender como você usa este site. Esses cookies serão armazenados em seu navegador apenas com o seu consentimento. Você também tem a opção de cancelar esses cookies. Porém, a desativação de alguns desses cookies pode afetar sua experiência de navegação.</div>
+				</div>
+				<a class="cli-privacy-readmore" aria-label="Mostrar mais" role="button" data-readmore-text="Mostrar mais" data-readless-text="Mostrar menos"></a>			</div>
+		</div>
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
+												<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
+								Necessary							</a>
+															<div class="wt-cli-necessary-checkbox">
+									<input type="checkbox" class="cli-user-preference-checkbox"  id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked"  />
+									<label class="form-check-label" for="wt-cli-checkbox-necessary">Necessary</label>
+								</div>
+								<span class="cli-necessary-caption">Sempre ativado</span>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="necessary">
+								<div class="wt-cli-cookie-description">
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+<table class="cookielawinfo-row-cat-table cookielawinfo-winter"><thead><tr><th class="cookielawinfo-column-1">Cookie</th><th class="cookielawinfo-column-3">Duração</th><th class="cookielawinfo-column-4">Descrição</th></tr></thead><tbody><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checkbox-analytics</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checkbox-functional</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checkbox-necessary</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checkbox-others</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checkbox-performance</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">viewed_cookie_policy</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.</td></tr></tbody></table>								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="functional" data-toggle="cli-toggle-tab">
+								Functional							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-functional" class="cli-user-preference-checkbox"  data-id="checkbox-functional" />
+									<label for="wt-cli-checkbox-functional" class="cli-slider" data-cli-enable="Ativado" data-cli-disable="Desativado"><span class="wt-cli-sr-only">Functional</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="functional">
+								<div class="wt-cli-cookie-description">
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="performance" data-toggle="cli-toggle-tab">
+								Performance							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-performance" class="cli-user-preference-checkbox"  data-id="checkbox-performance" />
+									<label for="wt-cli-checkbox-performance" class="cli-slider" data-cli-enable="Ativado" data-cli-disable="Desativado"><span class="wt-cli-sr-only">Performance</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="performance">
+								<div class="wt-cli-cookie-description">
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="analytics" data-toggle="cli-toggle-tab">
+								Analytics							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-analytics" class="cli-user-preference-checkbox"  data-id="checkbox-analytics" />
+									<label for="wt-cli-checkbox-analytics" class="cli-slider" data-cli-enable="Ativado" data-cli-disable="Desativado"><span class="wt-cli-sr-only">Analytics</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="analytics">
+								<div class="wt-cli-cookie-description">
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="advertisement" data-toggle="cli-toggle-tab">
+								Advertisement							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-advertisement" class="cli-user-preference-checkbox"  data-id="checkbox-advertisement" />
+									<label for="wt-cli-checkbox-advertisement" class="cli-slider" data-cli-enable="Ativado" data-cli-disable="Desativado"><span class="wt-cli-sr-only">Advertisement</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="advertisement">
+								<div class="wt-cli-cookie-description">
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="others" data-toggle="cli-toggle-tab">
+								Others							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-others" class="cli-user-preference-checkbox"  data-id="checkbox-others" />
+									<label for="wt-cli-checkbox-others" class="cli-slider" data-cli-enable="Ativado" data-cli-disable="Desativado"><span class="wt-cli-sr-only">Others</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="others">
+								<div class="wt-cli-cookie-description">
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								</div>
+							</div>
+						</div>
+					</div>
+										</div>
+	</div>
+</div>
+		  </div>
+		  <div class="cli-modal-footer">
+			<div class="wt-cli-element cli-container-fluid cli-tab-container">
+				<div class="cli-row">
+					<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+						<div class="cli-tab-footer wt-cli-privacy-overview-actions">
+						
+															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">SALVAR E ACEITAR</a>
+													</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+  </div>
+</div>
+<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+<!--googleon: all--><link rel='stylesheet' id='vc_tta_style-css' href='https://crefsc.org.br/wp-content/plugins/js_composer/assets/css/js_composer_tta.min.css?ver=7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-table-css' href='https://crefsc.org.br/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-table.css?ver=3.1.8' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css' href='https://crefsc.org.br/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.6.18' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<script type="text/javascript" src="https://crefsc.org.br/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.6" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/crefsc.org.br\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://crefsc.org.br/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.6" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://crefsc.org.br/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://crefsc.org.br/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2" id="jquery-ui-mouse-js"></script>
+<script type="text/javascript" src="https://crefsc.org.br/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.2" id="jquery-ui-sortable-js"></script>
+<script type="text/javascript" src="https://crefsc.org.br/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.2" id="jquery-ui-tabs-js"></script>
+<script type="text/javascript" src="https://crefsc.org.br/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.2" id="jquery-ui-accordion-js"></script>
+<script type="text/javascript" src="https://crefsc.org.br/wp-content/themes/betheme/js/plugins.js?ver=29" id="jquery-plugins-js"></script>
+<script type="text/javascript" src="https://crefsc.org.br/wp-content/themes/betheme/js/menu.js?ver=29" id="jquery-mfn-menu-js"></script>
+<script type="text/javascript" src="https://crefsc.org.br/wp-content/themes/betheme/assets/animations/animations.min.js?ver=29" id="jquery-animations-js"></script>
+<script type="text/javascript" src="https://crefsc.org.br/wp-content/themes/betheme/assets/jplayer/jplayer.min.js?ver=29" id="jquery-jplayer-js"></script>
+<script type="text/javascript" src="https://crefsc.org.br/wp-content/themes/betheme/js/scripts.js?ver=29" id="jquery-scripts-js"></script>
+<script type="text/javascript" src="https://crefsc.org.br/wp-includes/js/comment-reply.min.js?ver=dc81fbc92e3aae66a870676bbe9441f5" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://crefsc.org.br/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=7.2" id="wpb_composer_front_js-js"></script>
+<script type="text/javascript" src="https://crefsc.org.br/wp-content/plugins/js_composer/assets/lib/vc_accordion/vc-accordion.min.js?ver=7.2" id="vc_accordion_script-js"></script>
+<script type="text/javascript" src="https://crefsc.org.br/wp-content/plugins/js_composer/assets/lib/vc-tta-autoplay/vc-tta-autoplay.min.js?ver=7.2" id="vc_tta_autoplay_script-js"></script>
+<script type="text/javascript" src="https://crefsc.org.br/wp-content/plugins/js_composer/assets/lib/vc_tabs/vc-tabs.min.js?ver=7.2" id="vc_tabs_script-js"></script>
+<script></script>
+</body>
+</html>
+<!-- Performance optimized by Redis Object Cache. Learn more: https://wprediscache.com -->
+cript>
+<script></script>
+</body>
+</html>
+<!-- Performance optimized by Redis Object Cache. Learn more: https://wprediscache.com -->
