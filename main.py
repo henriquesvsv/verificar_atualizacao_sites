@@ -9,7 +9,7 @@ import time
 
 temp="temp"
 fixo="fixo"
-
+##oii
 def executar():
     while(True):
         List_sites = open('lista_de_sites.txt')
